@@ -153,7 +153,7 @@ Camp O
 Fire O
 blaze O
 that O
-â€™s O
+’s O
 killed O
 84 O
 and O
@@ -647,7 +647,7 @@ US S-LOC
 state O
 of O
 California S-LOC
-â€™s O
+’s O
 history O
 that O
 killed O
@@ -673,7 +673,7 @@ minutes O
 away O
 . O
 We O
-â€™re O
+’re O
 talking O
 about O
 the O
@@ -733,7 +733,7 @@ to O
 23 O
 . O
 Sheriff O
-â€™s O
+’s O
 officials O
 say O
 
@@ -845,7 +845,7 @@ have O
 every O
 day O
 , O
-â€ O
+” O
 said O
 Samreet O
 Kaur O
@@ -1019,11 +1019,11 @@ climbs O
 to O
 44 O
 - O
-NPRá½ª8HORRENDOUS O
+NPRὪ8HORRENDOUS O
 death O
 toll O
 now O
-44á½£3â€¼ï¸ O
+44ὣ3‼️ O
 
 Forest O
 fires O
@@ -1127,7 +1127,7 @@ by O
 this O
 . O
 It O
-â€™s O
+’s O
 terrifying O
 : O
 
@@ -1290,7 +1290,7 @@ deadliest O
 in O
 the O
 state O
-â€™s O
+’s O
 history O
 , O
 claimed O
@@ -1300,7 +1300,7 @@ so O
 far O
 . O
 California S-LOC
-â€™s O
+’s O
 economy O
 lost O
 $ O
@@ -1321,7 +1321,7 @@ in O
 connection O
 with O
 July O
-â€™s O
+’s O
 Cranston O
 fire O
 that O
@@ -1343,7 +1343,7 @@ honest O
 resource O
 when O
 we O
-â€™re O
+’re O
 looking O
 for O
 ways O
@@ -1367,7 +1367,7 @@ Patriots O
 ! O
 My O
 prayers O
-á½¤Fá¼¿B O
+ὤFἿB O
 this O
 Sunday O
 are O
@@ -1400,7 +1400,7 @@ residents O
 God O
 Bless O
 them O
-all.á¼ŸAá¼Ÿ8 O
+all.἟A἟8 O
 
 But O
 in O
@@ -1416,7 +1416,7 @@ dollar O
 for O
 every O
 time O
-yâ€™ O
+y’ O
 all O
 tweet O
 or O
@@ -1434,7 +1434,7 @@ California S-LOC
 fires O
 so O
 if O
-yâ€™ O
+y’ O
 all O
 would O
 RT O
@@ -1442,7 +1442,7 @@ this O
 and O
 tweet O
 it O
-yâ€™ O
+y’ O
 all O
 selves O
 that O
@@ -1507,9 +1507,9 @@ does O
 the O
 president O
 , O
-â€ O
+” O
 elected O
-â€ O
+” O
 to O
 preside O
 over O
@@ -1658,7 +1658,7 @@ of O
 the O
 # O
 CampFire O
-â€” O
+— O
 and O
 how O
 you O
@@ -1681,10 +1681,10 @@ the O
 new O
 abnormal O
 , O
-â€ O
+” O
 says O
 California S-LOC
-â€™s O
+’s O
 @JerryBrownGov O
 of O
 the O
@@ -1719,7 +1719,7 @@ roost O
 This O
 is O
 real O
-â€ O
+” O
 
 California S-LOC
 wildfires O
@@ -1774,7 +1774,7 @@ people O
 . O
 
 Via O
-@ABCNewsá½Š5 O
+@ABCNewsὊ5 O
 Camp O
 Fire O
 leaves O
@@ -1789,7 +1789,7 @@ Fires O
 by O
 the O
 numbers O
-âœ” O
+✔ O
 
 Death O
 toll O
@@ -1898,12 +1898,12 @@ horrific O
 , O
 why O
 does O
-nâ€™t O
+n’t O
 California S-LOC
 clear O
 their O
 dead O
-á¼³3 O
+ἳ3 O
 . O
 Fire O
 hazards O
@@ -1991,8 +1991,8 @@ cup O
 of O
 coffee O
 here O
-á½„9 O
-á¼™8100 O
+ὄ9 O
+Ἑ8100 O
 % O
 of O
 the O
@@ -2003,7 +2003,7 @@ to O
 victims O
 of O
 California S-LOC
-Fires!á¼™8 O
+Fires!Ἑ8 O
 
 While O
 inconceivable O
@@ -2013,7 +2013,7 @@ sounds O
 as O
 if O
 45 O
-â€™s O
+’s O
 willing O
 to O
 withhold O
@@ -2250,7 +2250,7 @@ above O
 . O
 Stay O
 safe O
-everyoneá½¤F O
+everyoneὤF O
 
 RT O
 @T64Pamela O
@@ -2329,8 +2329,8 @@ Guy O
 Fieri O
 teamed O
 with O
-JosÃ© O
-AndrÃ©ss O
+José O
+Andréss O
 World O
 Central O
 Kitchen O
@@ -2399,7 +2399,7 @@ thanks O
 FlyEaglesFly O
 
 1/5 O
-á½’511/18 O
+ὒ511/18 O
 # O
 UPDATE O
 # O
@@ -2427,7 +2427,7 @@ See O
 list O
 of O
 needed O
-itemsâ¤µ O
+items⤵ O
 # O
 CampFireJamesWoods O
 # O
@@ -2694,7 +2694,7 @@ Fire O
 . O
 
 California S-LOC
-â€™s O
+’s O
 Deadliest O
 Wildfire O
 Fully O
@@ -2777,7 +2777,7 @@ California S-LOC
 wildfire O
 relief O
 efforts O
-á½¤F O
+ὤF O
 # O
 retweet4good O
 # O
@@ -2837,7 +2837,7 @@ all O
 day O
 . O
 We O
-â€™ll O
+’ll O
 be O
 matching O
 100 O
@@ -2972,7 +2972,7 @@ billion O
 in O
 wildfire O
 prevention O
-â€” O
+— O
 and O
 none O
 of O
@@ -3095,9 +3095,9 @@ Via O
 .@CountyofButte O
 & O
 .@ActionNewsNow O
-â¬‡ O
-â¬‡ O
-â¬‡ O
+⬇ O
+⬇ O
+⬇ O
 lies O
 . O
 Coverage O
@@ -3227,9 +3227,9 @@ its O
 called O
 drought O
 .. O
-â€˜Total O
+‘Total O
 devastation O
-â€™ O
+’ O
 : O
 Trump O
 visits O
@@ -3414,7 +3414,7 @@ California S-LOC
 wildfires O
 . O
 Here O
-â€™s O
+’s O
 how O
 you O
 can O
@@ -3427,7 +3427,7 @@ work O
 : O
 
 It O
-â€™s O
+’s O
 been O
 more O
 than O
@@ -3460,7 +3460,7 @@ missing O
 # O
 Repost O
 @annetteconlon O
-ãƒ»ãƒ»ãƒ» O
+・・・ O
 Its O
 time O
 for O
@@ -3529,7 +3529,7 @@ Camp O
 Fire O
 becomes O
 California S-LOC
-â€™s O
+’s O
 deadliest O
 wildfire O
 ; O
@@ -3547,7 +3547,7 @@ the O
 deadliest O
 in O
 California S-LOC
-â€™s O
+’s O
 history O
 , O
 claiming O
@@ -3576,7 +3576,7 @@ fire O
 continues O
 . O
 Now O
-â€™s O
+’s O
 the O
 time O
 to O
@@ -3641,7 +3641,7 @@ CaliforniaWildfires O
 
 Please O
 donate O
-á½¤Fá¼¿B O
+ὤFἿB O
 # O
 Wooleyfire O
 
@@ -3680,7 +3680,7 @@ state O
 history.#wildfires O
 
 I O
-â€™m O
+’m O
 raising O
 money O
 for O
@@ -3725,7 +3725,7 @@ for O
 the O
 kids O
 ! O
-á½š4 O
+὚4 O
 
 Aerial O
 images O
@@ -3758,7 +3758,7 @@ history O
 is O
 still O
 rising O
-á½7 O
+὏7 O
 @JoshEdelson O
 @AFPphoto O
 # O
@@ -3869,7 +3869,7 @@ of O
 fatalities O
 from O
 California S-LOC
-â€™s O
+’s O
 Camp O
 Fire O
 , O
@@ -3940,7 +3940,7 @@ unaccoun O
 
 A O
 McDonald O
-â€™s O
+’s O
 . O
 A O
 gas O
@@ -4725,8 +4725,8 @@ the O
 wildfire O
 ht O
 
-âš¡ O
-ï¸ O
+⚡ O
+️ O
 Fort B-LOC
 McMurray E-LOC
 wildfire O
@@ -5439,7 +5439,7 @@ home O
 was O
 destroyed O
 in O
-â€™ O
+’ O
 08 O
 wildfire O
 says O
@@ -5776,9 +5776,9 @@ wildfire O
 and O
 its O
 victims O
-á½¡3 O
-âš  O
-ï¸á¼¾5 O
+ὡ3 O
+⚠ O
+️Ἶ5 O
 
 # O
 TheNewsClub O
@@ -6593,7 +6593,7 @@ the O
 country O
 . O
 Let O
-â€™s O
+’s O
 not O
 forget O
 the O
@@ -6740,7 +6740,7 @@ ground O
 . O
 
 I O
-â€™m O
+’m O
 really O
 impressed O
 about O
@@ -6904,7 +6904,7 @@ those O
 in O
 need O
 . O
-á½¤C O
+ὤC O
 to O
 @MalawiGovt O
 and O
@@ -6971,8 +6971,8 @@ love O
 and O
 care O
 . O
-â¤ O
-ï¸á½¤Fá½¤Fá¼¿E O
+❤ O
+️ὤFὤFἿE O
 
 From O
 tomorrow O
@@ -7077,7 +7077,7 @@ unit O
 Army O
 or O
 airforce O
-á¾‘4á¾‘4á¾‘4 O
+ᾑ4ᾑ4ᾑ4 O
 
 Please O
 like O
@@ -7471,7 +7471,7 @@ March O
 2019 O
 16:00 O
 hrs O
-á¼ŸFá¼ŸCtime O
+἟F἟Ctime O
 Cde O
 Hon O
 July O
@@ -7906,7 +7906,7 @@ for O
 CycloneTrevor O
 # O
 CycloneIdai O
-á½£0 O
+ὣ0 O
 
 Funeral O
 Assurance O
@@ -8063,10 +8063,10 @@ CycloneIdai O
 in O
 # O
 Beira O
-á¼Ÿ2á¼ŸF O
-á½’6 O
-â˜€ O
-ï¸ O
+἟2἟F O
+ὒ6 O
+☀ O
+️ O
 provide O
 security O
 by O
@@ -8099,7 +8099,7 @@ it O
 gets O
 dark O
 . O
-á¾2á¼¿Eá½’6á½A O
+ᾝ2ἿEὒ6ὍA O
 
 A O
 cyclone O
@@ -8116,7 +8116,7 @@ in O
 Zimbabwe S-LOC
 . O
 Mozambique S-LOC
-â€™s O
+’s O
 president O
 predicts O
 the O
@@ -8333,7 +8333,7 @@ satellite O
 image O
 below O
 . O
-á½¢A O
+ὢA O
 
 # O
 Mozambique S-LOC
@@ -8359,7 +8359,7 @@ MozambiqueFloods2019 O
 
 # O
 Mozambique S-LOC
-á¼Ÿ2á¼ŸF O
+἟2἟F O
 shares O
 their O
 gratitude O
@@ -8371,7 +8371,7 @@ hand O
 from O
 # O
 Tanzania S-LOC
-á¼Ÿ9á¼ŸF O
+἟9἟F O
 due O
 to O
 the O
@@ -8383,7 +8383,7 @@ happened O
 recently O
 . O
 @tanzaniagov O
-á¼Ÿ9á¼ŸF O
+἟9἟F O
 assures O
 our O
 neighbors O
@@ -8670,7 +8670,7 @@ Zimbabwe S-LOC
 . O
 
 With O
-@WFPâ© O
+@WFP⁩ O
 on O
 route O
 to O
@@ -8705,10 +8705,10 @@ done O
 by O
 our O
 partners O
-â¦@UNZimbabweâ© O
-â¦@SwedeninZWâ© O
-â¦@SweMFAâ© O
-â¦@SwedenUNâ© O
+⁦@UNZimbabwe⁩ O
+⁦@SwedeninZW⁩ O
+⁦@SweMFA⁩ O
+⁦@SwedenUN⁩ O
 
 Donation O
 from O
@@ -8765,7 +8765,7 @@ Today O
 was O
 TV O
 day O
-á½¤2á½A O
+ὤ2὏A O
 On O
 # O
 TheConnection O
@@ -8784,7 +8784,7 @@ Zimbabweans O
 to O
 help O
 those O
-affectedá¼ŸFá¼ŸCS O
+affected἟F἟CS O
 / O
 O O
 to O
@@ -8794,9 +8794,9 @@ to O
 & O
 Bridgette O
 Nyandoro O
-á½¤Fá¼¿E O
+ὤFἿE O
 Watch O
-á½„9á¼¿E O
+ὄ9ἿE O
 
 Offers O
 of O
@@ -9243,7 +9243,7 @@ is O
 possible O
 . O
 Let O
-â€™s O
+’s O
 do O
 it O
 . O
@@ -9260,7 +9260,7 @@ moved O
 quickly O
 to O
 donate O
-Â£ O
+£ O
 45,000 O
 to O
 aid O
@@ -9330,7 +9330,7 @@ to O
 keep O
 working O
 tirelessly O
-á½7 O
+὏7 O
 @UNICEF_Moz/2019 O
 / O
 Tsvangirayi O
@@ -9560,7 +9560,7 @@ by O
 UKAid O
 - O
 here O
-â€™s O
+’s O
 the O
 link O
 to O
@@ -9609,8 +9609,8 @@ delivering O
 food O
 aid O
 . O
-âž¡ O
-ï¸ O
+➡ O
+️ O
 
 More O
 images O
@@ -9738,8 +9738,8 @@ ForzaCocoricoo O
 # O
 ASRomaWomen O
 @MSF O
-âž¡ O
-ï¸ O
+➡ O
+️ O
 
 # O
 Cyclone O
@@ -10089,7 +10089,7 @@ helping O
 : O
 
 We O
-â€™re O
+’re O
 distributing O
 blankets O
 , O
@@ -10258,8 +10258,8 @@ survivors O
 , O
 death O
 
-âš¡ O
-ï¸ O
+⚡ O
+️ O
 Tropical O
 cyclone O
 # O
@@ -10580,7 +10580,7 @@ the O
 CycloneIdai O
 relief O
 campaign O
-á½„Fá¼¿D O
+ὄFἿD O
 Lets O
 continue O
 to O
@@ -11131,7 +11131,7 @@ Beira S-LOC
 . O
 
 Marta O
-â€™s O
+’s O
 dream O
 was O
 to O
@@ -11141,7 +11141,7 @@ nurse O
 . O
 But O
 she O
-â€™s O
+’s O
 been O
 a O
 # O
@@ -11192,7 +11192,7 @@ WFP O
 Aviation O
 airlifted O
 2,000 O
-boxesá½Ž6 O
+boxes὎6 O
 of O
 high O
 - O
@@ -11284,15 +11284,15 @@ priority O
 for O
 @IFRC O
 
-â€˜ O
+‘ O
 There O
-â€™s O
+’s O
 Almost O
 Nothing O
 We O
 Can O
 Do O
-â€™ O
+’ O
 : O
 Nearly O
 80 O
@@ -11485,7 +11485,7 @@ such O
 a O
 shock O
 , O
-â€ O
+” O
 witness O
 says O
 http O
@@ -11700,7 +11700,7 @@ please O
 i O
 beg O
 u O
-Â¡ O
+¡ O
 
 RT O
 @caseysjournal O
@@ -11741,7 +11741,7 @@ death O
 toll O
 reaches O
 272 O
-â€“ O
+– O
 President O
 Rafael O
 Correa O
@@ -11783,10 +11783,10 @@ in O
 decades O
 . O
 
-â€˜ O
+‘ O
 Considerable O
 damage O
-â€™ O
+’ O
 in O
 Ecuador S-LOC
 following O
@@ -12013,10 +12013,10 @@ to O
 relief O
 efforts O
 . O
-â¤ O
-ï¸à¥ O
-â¤ O
-ï¸ O
+❤ O
+️ॐ O
+❤ O
+️ O
 
 RT O
 @Hearts_Of_Gold O
@@ -12042,7 +12042,7 @@ or O
 by O
 . O
 
-LetÂ´s O
+Let´s O
 help O
 # O
 Ecuador S-LOC
@@ -12149,7 +12149,7 @@ injured O
 , O
 the O
 country O
-â€™s O
+’s O
 VP O
 says O
 . O
@@ -12344,7 +12344,7 @@ earthquake O
 that O
 struck O
 Ecuador S-LOC
-â€™s O
+’s O
 coast O
 , O
 officials O
@@ -12868,7 +12868,7 @@ Ecuador S-LOC
 need O
 help O
 donate O
-pleaseá½¢Dá½¢D O
+pleaseὢDὢD O
 # O
 EcuadorEarthquake O
 
@@ -13030,7 +13030,7 @@ terrace O
 in O
 a O
 colleague O
-â€™s O
+’s O
 house O
 collapsed O
 . O
@@ -13046,7 +13046,7 @@ great O
 humanitarian O
 , O
 I O
-â¤ O
+❤ O
 , O
 respect O
 n O
@@ -13233,7 +13233,7 @@ to O
 magnituden O
 .2016 O
 # O
-ManabÃ­ S-LOC
+Manabí S-LOC
 # O
 ecuador S-LOC
 # O
@@ -13325,7 +13325,7 @@ earthquake O
 RT O
 @israel_flash O
 : O
-âœ¡ O
+✡ O
 # O
 Israel S-LOC
 # O
@@ -13334,7 +13334,7 @@ broadcast O
 by O
 # O
 TheIsraelCompany O
-âœ¡ O
+✡ O
 : O
 Israeli O
 aid O
@@ -13549,7 +13549,7 @@ victims O
 of O
 # O
 Greece S-LOC
-â€™s O
+’s O
 # O
 wildfires O
 ? O
@@ -13562,7 +13562,7 @@ for O
 victims O
 of O
 Greece S-LOC
-â€™s O
+’s O
 wildfires O
 , O
 which O
@@ -13580,7 +13580,7 @@ missing O
 # O
 PrayForGreece O
 # O
-Î Ï…ÏÎºÎ±Î³Î¹Î± O
+Πυρκαγια O
 
 RT O
 @TheHCGM O
@@ -13649,7 +13649,7 @@ Greece S-LOC
 In O
 Vassilis O
 Papaioannou O
-â€™s O
+’s O
 Veterinary O
 Center O
 in O
@@ -13770,9 +13770,9 @@ is O
 ) O
 . O
 # O
-Î Ï…ÏÎºÎ±Î³Î¹Î± O
+Πυρκαγια O
 # O
-Ï†Ï‰Ï„Î¹Î± O
+φωτια O
 # O
 PrayForGreece O
 # O
@@ -13817,10 +13817,10 @@ dead O
 as O
 fire O
 brings O
-â€˜ O
+‘ O
 biblical O
 disaster O
-â€™ O
+’ O
 on O
 Greece S-LOC
 
@@ -13944,7 +13944,7 @@ HUNANITY O
 IS O
 ONCE O
 AGAIN O
-RESTOREDá½‰7 O
+RESTOREDὉ7 O
 # O
 Greecefires O
 # O
@@ -13967,7 +13967,7 @@ near O
 # O
 Athens S-LOC
 # O
-Î Ï…ÏÎºÎ±Î³Î¹Î± O
+Πυρκαγια O
 # O
 Greece S-LOC
 
@@ -14091,7 +14091,7 @@ been O
 destroyed O
 . O
 Let O
-â€™s O
+’s O
 do O
 what O
 we O
@@ -14248,7 +14248,7 @@ of O
 Cyprus S-LOC
 is O
 contributing O
-â‚¬ O
+€ O
 10 O
 million O
 to O
@@ -14372,7 +14372,7 @@ climb O
 , O
 but O
 it O
-â€™s O
+’s O
 still O
 double O
 digits O
@@ -14422,13 +14422,13 @@ PrayForGreece O
 & O
 help O
 2 O
-á¼žCá¼Ÿ7 O
+἞C἟7 O
 
 RT O
 @France24_en O
 : O
-â–¶ O
-ï¸ O
+▶ O
+️ O
 Greece S-LOC
 wildfires O
 : O
@@ -14450,7 +14450,7 @@ main O
 road O
 in O
 Greece S-LOC
-â€“ O
+– O
 wildfires O
 across O
 the O
@@ -14507,7 +14507,7 @@ the O
 wildfires O
 . O
 ( O
-á½8 O
+὏8 O
 Nick O
 Paleologos O
 / O
@@ -14584,10 +14584,10 @@ people O
 . O
 26 O
 bodies O
-â€“ O
+– O
 including O
 children O
-â€“ O
+– O
 were O
 found O
 huddled O
@@ -14627,7 +14627,7 @@ Friends O
 , O
 if O
 you O
-â€™re O
+’re O
 considering O
 donating O
 to O
@@ -14704,7 +14704,7 @@ Monahou O
 # O
 newsnight O
 
-á¼žCá¼ž7 O
+἞C἞7 O
 EU O
 mobilises O
 firefighting O
@@ -14770,7 +14770,7 @@ BTC O
 $ O
 ETH O
 # O
-Î Ï…ÏÎºÎ±Î³Î¹Î± O
+Πυρκαγια O
 # O
 wildfires O
 # O
@@ -14814,7 +14814,7 @@ victims O
 # O
 AthensFires O
 # O
-Ï€Ï…ÏÎºÎ±Î³Î¹ÎµÏ‚ O
+πυρκαγιες O
 
 DEVASTATING O
 : O
@@ -15165,8 +15165,8 @@ in O
 the O
 # O
 wildfires O
-â¤ O
-ï¸ O
+❤ O
+️ O
 # O
 solidarity O
 
@@ -15446,7 +15446,7 @@ spouses O
 and O
 near O
 relatives O
-â€ O
+” O
 * O
 a O
 job O
@@ -15457,7 +15457,7 @@ sector O
 * O
 for O
 victims O
-â€™ O
+’ O
 families O
 . O
 # O
@@ -15671,7 +15671,7 @@ people O
 have O
 died O
 . O
-á½¡4 O
+ὡ4 O
 from O
 the O
 # O
@@ -16035,7 +16035,7 @@ confirmed O
 dead O
 Irishman O
 Brian O
-Oâ€™Callaghan O
+O’Callaghan O
 - O
 Westropp O
 has O
@@ -16053,7 +16053,7 @@ in O
 Greece S-LOC
 . O
 Mr O
-Oâ€™Callaghan O
+O’Callaghan O
 - O
 Westropp O
 and O
@@ -16205,7 +16205,7 @@ affected O
 # O
 PrayForGreece O
 # O
-Î Ï…ÏÎºÎ±Î³Î¹Î± O
+Πυρκαγια O
 
 Egyptian O
 fisherman O
@@ -16292,7 +16292,7 @@ Mati S-LOC
 Greece S-LOC
 , O
 spread O
-â€“ O
+– O
 a O
 visual O
 guide O
@@ -16301,12 +16301,12 @@ PrayForAthens O
 # O
 PrayForGreece O
 # O
-Î Ï…ÏÎºÎ±Î³Î¹Î± O
+Πυρκαγια O
 @skaigr O
 # O
 Greece S-LOC
 # O
-Î•Î»Î»Î±Î´Î± O
+Ελλαδα O
 @skaigr O
 # O
 Hellas O
@@ -16358,7 +16358,7 @@ AthensFires O
 # O
 athens S-LOC
 # O
-Î Ï…ÏÎºÎ±Î³Î¹Î± O
+Πυρκαγια O
 
 Pressure O
 is O
@@ -16572,7 +16572,7 @@ damage O
 
 This O
 ca O
-nâ€™t O
+n’t O
 be O
 good O
 - O
@@ -16743,7 +16743,7 @@ care O
 . O
 
 I O
-â€™ll O
+’ll O
 be O
 following O
 @sirensproject O
@@ -16758,7 +16758,7 @@ makes O
 landfall O
 . O
 I O
-â€™ll O
+’ll O
 need O
 help O
 filling O
@@ -17102,7 +17102,7 @@ ordered O
 @HandInHandGP O
 
 We O
-â€™ll O
+’ll O
 all O
 spend O
 time O
@@ -17249,14 +17249,14 @@ Dorian O
 is O
 now O
 the O
-â€˜ O
+‘ O
 strongest O
 hurricane O
 in O
 modern O
 records O
 . O
-â€™ O
+’ O
 Palm B-LOC
 Beach E-LOC
 , O
@@ -17292,7 +17292,7 @@ quickly O
 weakened O
 and O
 did O
-nâ€™t O
+n’t O
 do O
 as O
 much O
@@ -17323,7 +17323,7 @@ massive O
 hurricane O
 . O
 Allahi O
-mustaâ€™an O
+musta’an O
 . O
 
 # O
@@ -17354,7 +17354,7 @@ in O
 prayer O
 , O
 here O
-â€™s O
+’s O
 one O
 for O
 you O
@@ -17442,7 +17442,7 @@ website O
 . O
 Our O
 dog O
-â€™s O
+’s O
 safety O
 is O
 our O
@@ -17738,7 +17738,7 @@ the O
 county O
 , O
 do O
-nâ€™t O
+n’t O
 go O
 north O
 . O
@@ -17777,7 +17777,7 @@ a O
 friend O
 / O
 family O
-â€™s O
+’s O
 house O
 or O
 at O
@@ -17885,7 +17885,7 @@ things O
 dry O
 if O
 there O
-â€™s O
+’s O
 minor O
 flooding O
 # O
@@ -18101,7 +18101,7 @@ affected O
 by O
 # O
 HurricaneDorian O
-á½¤Fá¼¿C O
+ὤFἿC O
 
 Our O
 team O
@@ -18134,7 +18134,7 @@ Dorian O
 approaches O
 , O
 it O
-â€™s O
+’s O
 critical O
 for O
 all O
@@ -18177,11 +18177,11 @@ trees O
 uprooted O
 and O
 overall O
-â€˜ O
+‘ O
 catastrophic O
 damage O
 . O
-â€™ O
+’ O
 Marsh O
 Harbour O
 is O
@@ -18404,7 +18404,7 @@ whether O
 to O
 order O
 evacuations O
-â€ O
+” O
 # O
 publichealth O
 
@@ -18519,7 +18519,7 @@ of O
 mph O
 and O
 strengthening O
-â˜¹ O
+☹ O
 I O
 live O
 in O
@@ -18554,7 +18554,7 @@ over O
 a O
 month O
 . O
-á½¢9 O
+ὢ9 O
 
 WATCH O
 LIVE O
@@ -18625,7 +18625,7 @@ Hurricane O
 Dorian O
 . O
 
-âš  O
+⚠ O
 At O
 5 O
 pm O
@@ -18881,7 +18881,7 @@ the O
 states O
 coastal O
 counties O
-â€” O
+— O
 all O
 told O
 , O
@@ -18902,7 +18902,7 @@ for O
 HurricaneDorian O
 , O
 we O
-â€™ve O
+’ve O
 sent O
 more O
 than O
@@ -18960,7 +18960,7 @@ Broward O
 Health O
 CEO O
 , O
-â¦@Michaeludineâ© O
+⁦@Michaeludine⁩ O
 , O
 Em O
 Mgt O
@@ -18968,7 +18968,7 @@ Dir O
 Tracy O
 Jackson O
 , O
-â¦@RobertwRuncieâ© O
+⁦@RobertwRuncie⁩ O
 , O
 FPL O
 Juliet O
@@ -19006,8 +19006,8 @@ weather O
 reports O
 . O
 
-á½ª8Bahamas O
-Reliefá½ª8 O
+Ὢ8Bahamas O
+ReliefὪ8 O
 We O
 are O
 now O
@@ -19035,7 +19035,7 @@ by O
 the O
 MiamiDade O
 CEOC O
-á½„7á¼¿E O
+ὄ7ἿE O
 or O
 donate O
 $ O
@@ -19328,7 +19328,7 @@ Supply O
 HurricaneDorian O
 
 What O
-â€™s O
+’s O
 a O
 hurricane O
 watch O
@@ -19339,7 +19339,7 @@ storm O
 warning O
 ? O
 Here O
-â€™s O
+’s O
 what O
 to O
 know O
@@ -19652,7 +19652,7 @@ without O
 any O
 damage O
 . O
-á½¤F O
+ὤF O
 
 Jacksonville S-LOC
 Mayor O
@@ -19699,7 +19699,7 @@ home O
 was O
 destroyed O
 . O
-á¾’3á¾’3á¾’3á¾’3á¾’3á¾’3á¾’3á¾’3á¾’3á¾’3á¾’3á¾’3 O
+ᾒ3ᾒ3ᾒ3ᾒ3ᾒ3ᾒ3ᾒ3ᾒ3ᾒ3ᾒ3ᾒ3ᾒ3 O
 Trumps O
 Florida S-LOC
 Mar O
@@ -19722,11 +19722,11 @@ it O
 Dorian O
 ! O
 26.6771 O
-Â° O
+° O
 N O
 , O
 80.0370 O
-Â° O
+° O
 W O
 Just O
 do O
@@ -19938,11 +19938,11 @@ stay O
 out O
 of O
 harm O
-â€™s O
+’s O
 way O
 . O
 We O
-â€™ll O
+’ll O
 see O
 you O
 soon O
@@ -20148,7 +20148,7 @@ Yea O
 .. O
 We O
 should O
-nâ€™t O
+n’t O
 have O
 any O
 mail O
@@ -20192,9 +20192,9 @@ to O
 personally O
 deliver O
 meds O
-á¾“7á¼¿Dâ€ O
-â™‚ O
-ï¸ O
+ᾓ7ἿD‍ O
+♂ O
+️ O
 
 # O
 PalmBeachCounty S-LOC
@@ -20514,7 +20514,7 @@ South B-LOC
 Carolinians E-LOC
 , O
 here O
-â€™s O
+’s O
 the O
 best O
 source O
@@ -20550,7 +20550,7 @@ man O
 pray O
 for O
 them O
-á½¤Fá¼¿D O
+ὤFἿD O
 
 To O
 help O
@@ -20565,7 +20565,7 @@ in O
 HurricaneDorian2019 O
 , O
 we O
-â€™ve O
+’ve O
 opened O
 the O
 @Xfinity O
@@ -20865,7 +20865,7 @@ call O
 . O
 
 It O
-â€™s O
+’s O
 deeply O
 fucked O
 that O
@@ -20874,7 +20874,7 @@ total O
 destruction O
 of O
 Galaxy O
-â€™s O
+’s O
 Edge O
 by O
 Dorian O
@@ -20996,9 +20996,9 @@ the O
 most O
 heart O
 . O
-â€ O
+” O
 
-á½Ž3á½ª8 O
+὎3Ὢ8 O
 # O
 HurricanFlorence O
 She O
@@ -21190,7 +21190,7 @@ Hurricane O
 Florence S-LOC
 . O
 We O
-â€™ll O
+’ll O
 be O
 distributing O
 free O
@@ -21207,7 +21207,7 @@ conditions O
 allow O
 . O
 We O
-â€™ll O
+’ll O
 update O
 TW O
 & O
@@ -21347,7 +21347,7 @@ southward O
 , O
 but O
 they O
-â€™re O
+’re O
 warning O
 residents O
 to O
@@ -21373,7 +21373,7 @@ Florence O
 people O
 dead O
 -major O
-â€ O
+” O
 flood O
 stage O
 expected O
@@ -21774,7 +21774,7 @@ for O
 # O
 HurricaneFlorence O
 . O
-â–ª O
+▪ O
 I O
 am O
 doing O
@@ -21788,7 +21788,7 @@ in O
 # O
 NorthCarolina S-LOC
 . O
-â–ª O
+▪ O
 I O
 m O
 in O
@@ -21983,7 +21983,7 @@ the O
 lowest O
 floor O
 that O
-â€™s O
+’s O
 not O
 subject O
 to O
@@ -22011,12 +22011,12 @@ a O
 closed O
 attic O
 . O
-á½ª8Call O
+Ὢ8Call O
 911 O
 If O
 you O
 need O
-rescue.á½ª8 O
+rescue.Ὢ8 O
 # O
 Florence S-LOC
 
@@ -22053,10 +22053,10 @@ ran O
 out O
 : O
 ) O
-á½ª8SHARE O
+Ὢ8SHARE O
 and O
 help O
-others:)á½ª8 O
+others:)Ὢ8 O
 
 How O
 you O
@@ -22180,7 +22180,7 @@ our O
 area O
 . O
 We O
-â€™re O
+’re O
 hearing O
 from O
 some O
@@ -22272,7 +22272,7 @@ again O
 today-10a.m.-6 O
 p.m. O
 Let O
-â€™s O
+’s O
 help O
 our O
 family O
@@ -23006,7 +23006,7 @@ supplies O
 at O
 airfield O
 
-á½ª8 O
+Ὢ8 O
 Often O
 during O
 a O
@@ -23159,8 +23159,8 @@ linger O
 for O
 days O
 . O
-â–ª O
-ï¸ O
+▪ O
+️ O
 Category O
 4 O
 storm O
@@ -23172,8 +23172,8 @@ of O
 rain O
 expected O
 . O
-â–ª O
-ï¸ O
+▪ O
+️ O
 At O
 least O
 1.3 O
@@ -23183,8 +23183,8 @@ ordered O
 to O
 evacuate O
 . O
-â–ª O
-ï¸ O
+▪ O
+️ O
 States O
 of O
 emergency O
@@ -23357,7 +23357,7 @@ a O
 few O
 of O
 his O
-á¼¼8 O
+Ἴ8 O
 friends O
 on O
 Tues O
@@ -23659,7 +23659,7 @@ rescue O
 , O
 support O
 and O
-hope.á¼ŸAá¼Ÿ8 O
+hope.἟A἟8 O
 In O
 addition O
 , O
@@ -23763,7 +23763,7 @@ HurricaneFlorence O
 WednesdayWisdom O
 
 We O
-â€™re O
+’re O
 supporting O
 first O
 responders O
@@ -23878,7 +23878,7 @@ HurricaneFlorence O
 . O
 Text O
 FLORENCE O
-â€ O
+” O
 to O
 90999 O
 to O
@@ -24145,7 +24145,7 @@ mobilization O
 . O
 
 Do O
-nâ€™t O
+n’t O
 be O
 a O
 victim O
@@ -24339,15 +24339,15 @@ with O
 pets O
 & O
 livestock O
-â›º O
-ï¸ O
-á½5 O
-á½€8 O
-á½€4 O
-á½1 O
-á½0 O
-á½3 O
-á¾˜6 O
+⛺ O
+️ O
+ὁ5 O
+ὀ8 O
+ὀ4 O
+ὁ1 O
+ὁ0 O
+ὁ3 O
+ᾘ6 O
 
 RT O
 @RSBNetwork O
@@ -24539,7 +24539,7 @@ a O
 job O
 , O
 Brownie O
-â€ O
+” O
 moment O
 . O
 
@@ -24701,13 +24701,13 @@ Nearly O
 1,000 O
 people O
 in O
-prisonâ€“â€“including O
+prison––including O
 staff O
 and O
-inmatesâ€“â€“in O
+inmates––in O
 SC O
 wo O
-nâ€™t O
+n’t O
 be O
 evacuated O
 for O
@@ -24719,7 +24719,7 @@ evacuation O
 orders O
 . O
 It O
-â€™s O
+’s O
 time O
 governments O
 put O
@@ -24871,7 +24871,7 @@ to O
 be O
 affected O
 . O
-â€ O
+” O
 
 @OCNCGOV O
 Great O
@@ -25182,8 +25182,8 @@ WV O
 # O
 WVGov O
 
-âš¡ O
-ï¸#Moments O
+⚡ O
+️#Moments O
 : O
 # O
 Tennessee S-LOC
@@ -25290,7 +25290,7 @@ help O
 in O
 Hurricane O
 Harvey O
-â€™s O
+’s O
 aftermath O
 
 Sheriff O
@@ -25697,8 +25697,8 @@ students O
 and O
 community O
 . O
-ðŸ’™ O
-ðŸ¾ O
+💙 O
+🐾 O
 Join O
 us O
 and O
@@ -25794,7 +25794,7 @@ get O
 the O
 supplies O
 they O
-â€™ll O
+’ll O
 need O
 to O
 rebuild O
@@ -25872,7 +25872,7 @@ Houston S-LOC
 Epic O
 Catastrophic O
 Flooding O
-â€ O
+” O
 states O
 # O
 Weather O
@@ -26030,8 +26030,8 @@ of O
 Hurricane O
 Harvey O
 . O
-â¤ O
-ï¸ O
+❤ O
+️ O
 # O
 HurricaneHarveyRelief O
 
@@ -26402,11 +26402,11 @@ Harvey O
 
 Please O
 donate O
-ðŸ¶ O
-ðŸ® O
-ðŸ± O
-ðŸ· O
-ðŸ¦ O
+🐶 O
+🐮 O
+🐱 O
+🐷 O
+🐦 O
 # O
 HuricaneHarvey O
 
@@ -26499,12 +26499,12 @@ hurricaneharvey O
 dogsworld O
 # O
 catsrule O
-ðŸ™ O
-ðŸ¼ O
-ðŸ™ O
-ðŸ¼ O
-ðŸ™ O
-ðŸ¼ O
+🙏 O
+🏼 O
+🙏 O
+🏼 O
+🙏 O
+🏼 O
 
 Thanks O
 to O
@@ -26605,11 +26605,11 @@ wake O
 of O
 # O
 HurricaneHarvey O
-â€™s O
+’s O
 devastation O
 , O
 we O
-â€™re O
+’re O
 taking O
 action O
 . O
@@ -27387,8 +27387,8 @@ HurricaneHarvey O
 # O
 HoustonStrong O
 
-âš  O
-ï¸â€¼ï¸ O
+⚠ O
+️‼️ O
 Tornado O
 Warning O
 for O
@@ -27470,7 +27470,7 @@ deserve O
 to O
 be O
 known O
-ðŸ‘ O
+👏 O
 
 Hi O
 - O
@@ -27751,10 +27751,10 @@ Compared O
 HurricaneHarvey O
 Devastation O
 to O
-â€˜ O
+‘ O
 Water O
 Damage O
-â€™ O
+’ O
 at O
 His O
 Properties O
@@ -27777,8 +27777,8 @@ displaced O
 by O
 Hurricane O
 Harvey O
-ðŸ’» O
-ðŸˆ O
+💻 O
+🏈 O
 : O
 
 @JoelOsteen O
@@ -28024,7 +28024,7 @@ Board O
 
 Hurricane O
 Irma O
-â€™s O
+’s O
 Cat O
 Heroes O
 work O
@@ -28195,10 +28195,10 @@ Evreux O
 BA105 O
 # O
 HurricaneIrma O
-ðŸ‡¬ O
-ðŸ‡§ O
-ðŸ‡« O
-ðŸ‡· O
+🇬 O
+🇧 O
+🇫 O
+🇷 O
 
 WeatherSTEM O
 played O
@@ -28435,7 +28435,7 @@ at O
 42 O
 
 Do O
-nâ€™t O
+n’t O
 let O
 your O
 guard O
@@ -28589,8 +28589,8 @@ just O
 reopened O
 last O
 month O
-ðŸ˜¢ O
-ðŸ’” O
+😢 O
+💔 O
 
 As O
 # O
@@ -28623,8 +28623,8 @@ experts O
 are O
 working O
 in O
-ðŸ‡» O
-ðŸ‡® O
+🇻 O
+🇮 O
 US S-LOC
 Virgin O
 Islands O
@@ -28863,7 +28863,7 @@ Hurricane O
 Irma O
 leaves O
 UK S-LOC
-â€™s O
+’s O
 Caribbean O
 tax O
 havens O
@@ -28954,7 +28954,7 @@ shows O
 # O
 Irmas O
 damage O
-â€“ O
+– O
 # O
 video O
 
@@ -29078,8 +29078,8 @@ a O
 dark O
 hallway O
 . O
-â€ O
-â€“ O
+” O
+– O
 Logans O
 dad O
 . O
@@ -29180,10 +29180,10 @@ After O
 Earthquake O
 Hits O
 Mexico S-LOC
-â€™s O
+’s O
 Southern O
 Coast O
-ðŸ˜¥ O
+😥 O
 
 Flood O
 damage O
@@ -29692,7 +29692,7 @@ RT O
 This O
 morning O
 I O
-â€™ll O
+’ll O
 be O
 on O
 the O
@@ -29702,7 +29702,7 @@ around O
 am O
 discussing O
 Florida S-LOC
-â€™s O
+’s O
 efforts O
 to O
 prepare O
@@ -29759,8 +29759,8 @@ Irma O
 relief O
 efforts O
 . O
-âž¡ O
-ï¸ O
+➡ O
+️ O
 
 French O
 president O
@@ -29768,7 +29768,7 @@ vows O
 help O
 for O
 Irma O
-â€™s O
+’s O
 damage O
 in O
 Caribbean O
@@ -29860,7 +29860,7 @@ Such O
 a O
 small O
 number O
-â€ O
+” O
 
 Due O
 to O
@@ -29903,7 +29903,7 @@ week O
 after O
 Hurricane O
 Irma O
-â€™s O
+’s O
 winds O
 battered O
 
@@ -30135,7 +30135,7 @@ So O
 Far O
 and O
 What O
-â€™s O
+’s O
 Next O
 
 RT O
@@ -30221,8 +30221,8 @@ victims O
 
 Shocking O
 Scenes O
-ðŸ˜± O
-ðŸ˜¯ O
+😱 O
+😯 O
 as O
 Category O
 5 O
@@ -30591,7 +30591,7 @@ to O
 from O
 Hurricane O
 Maria O
-â€™s O
+’s O
 # O
 news O
 
@@ -30709,7 +30709,7 @@ has O
 devastated O
 Puerto B-LOC
 Rico E-LOC
-á¼Ÿ5á¼Ÿ7Looking O
+἟5἟7Looking O
 for O
 ways O
 to O
@@ -30805,7 +30805,7 @@ all O
 the O
 other O
 deaths O
-â€ O
+” O
 # O
 hurricanemaria O
 
@@ -30986,7 +30986,7 @@ would O
 nt O
 lose O
 money O
-á½¢C O
+ὢC O
 
 Puerto B-LOC
 Rico E-LOC
@@ -31028,7 +31028,7 @@ can O
 I O
 encourage O
 all O
-PAâ€™ians O
+PA’ians O
 who O
 are O
 able O
@@ -31047,7 +31047,7 @@ relief O
 @SenSchumer O
 please O
 help O
-á¼Ÿ5á¼Ÿ7 O
+἟5἟7 O
 # O
 PuertoRico S-LOC
 now O
@@ -31171,20 +31171,20 @@ here- O
 Puerto B-LOC
 Rico E-LOC
 : O
-â€˜ O
+‘ O
 Hurricane O
 Maria O
 destroyed O
 everything O
-â€™ O
+’ O
 # O
 news O
 
 RT O
 @jasjuliet O
 : O
-âš¡ O
-ï¸ O
+⚡ O
+️ O
 DONATE O
 TO O
 PUERTO B-LOC
@@ -31194,7 +31194,7 @@ IRMA O
 AND O
 MARIA O
 . O
-â€ O
+” O
 # O
 PuertoRico S-LOC
 # O
@@ -31216,7 +31216,7 @@ TravelAlert O
 Cuba S-LOC
 | O
 Summary O
-â€“ O
+– O
 Hurricane O
 Maria O
 is O
@@ -31272,12 +31272,12 @@ help O
 please O
 visit O
 : O
-á¼Ÿ5á¼Ÿ7 O
-â¤ O
-ï¸ O
+἟5἟7 O
+❤ O
+️ O
 
 Bill O
-â€™s O
+’s O
 Donuts O
 is O
 collecting O
@@ -31336,7 +31336,7 @@ huge O
 help O
 ! O
 Ca O
-nâ€™t O
+n’t O
 donate O
 ? O
 Help O
@@ -31348,7 +31348,7 @@ around O
 
 Hurricane O
 Maria O
-â€™s O
+’s O
 death O
 toll O
 in O
@@ -31542,7 +31542,7 @@ drop O
 off O
 donations O
 for O
-MarÃ­a O
+María O
 victims O
 in O
 South O
@@ -31601,7 +31601,7 @@ heart O
 is O
 broken!I O
 ca O
-nâ€™t O
+n’t O
 pray O
 enough O
 for O
@@ -31691,7 +31691,7 @@ ht O
 RT O
 @MiamiHerald O
 : O
-â€˜ O
+‘ O
 We O
 will O
 find O
@@ -31699,10 +31699,10 @@ our O
 island O
 destroyed O
 . O
-â€™ O
+’ O
 Hurricane O
 Maria O
-â€™s O
+’s O
 rampage O
 demolishes O
 Puerto B-LOC
@@ -31752,7 +31752,7 @@ U.S. S-LOC
 Virgin B-LOC
 Islands E-LOC
 # O
-OGá¼ŸAá¼Ÿ8 O
+OG἟A἟8 O
 
 RT O
 @lovethedivablog O
@@ -31842,7 +31842,7 @@ them O
 . O
 # O
 ReliefAndJustice4PR O
-á¼Ÿ5á¼Ÿ7 O
+἟5἟7 O
 
 HOW O
 TO O
@@ -31954,7 +31954,7 @@ damaged O
 or O
 destroyed O
 , O
-â€ O
+” O
 
 RT O
 @BridgesForPeace O
@@ -32086,7 +32086,7 @@ his O
 own O
 # O
 POTUS O
-reputation.á¾‘0 O
+reputation.ᾑ0 O
 
 BUT O
 IF O
@@ -32256,7 +32256,7 @@ RT O
 : O
 AB O
 Charities O
-â€” O
+— O
 Directly O
 support O
 the O
@@ -32275,7 +32275,7 @@ Hurricane O
 Maria O
 flash O
 flooding O
-â€“ O
+– O
 as O
 it O
 happened O
@@ -32383,7 +32383,7 @@ at O
 : O
 
 RSPCA O
-â€™s O
+’s O
 dog O
 photo O
 spurred O
@@ -32392,7 +32392,7 @@ to O
 donate O
 to O
 Dominica S-LOC
-â€™s O
+’s O
 animals O
 # O
 HurricaneIrma O
@@ -32438,12 +32438,12 @@ In O
 
 1.5 O
 million O
-peopleâ€”44 O
+people—44 O
 percent O
 of O
 the O
 island O
-â€” O
+— O
 are O
 without O
 clean O
@@ -32469,7 +32469,7 @@ inside O
 a O
 # O
 MH60 O
-á½¨1 O
+Ὠ1 O
 for O
 evacuation O
 from O
@@ -32876,7 +32876,7 @@ efforts O
 in O
 Puerto B-LOC
 Rico E-LOC
-â†’ O
+→ O
 
 I O
 am O
@@ -33005,7 +33005,7 @@ devastation O
 : O
 An O
 insider O
-â€™s O
+’s O
 view O
 of O
 the O
@@ -33316,7 +33316,7 @@ San B-LOC
 Juan E-LOC
 Mayor O
 Carmen O
-YulÃ­n O
+Yulín O
 Cruz O
 are O
 insulting O
@@ -33842,12 +33842,12 @@ RT O
 @billmckibben O
 : O
 It O
-â€™s O
+’s O
 the O
 worst O
 hurricane O
 I O
-â€™ve O
+’ve O
 seen O
 during O
 my O
@@ -34238,7 +34238,7 @@ Car O
 
 # O
 HurricaneMatthew O
-â€™s O
+’s O
 toll O
 : O
 19 O
@@ -34586,7 +34586,7 @@ to O
 10 O
 in O
 Haiti S-LOC
-â€” O
+— O
 officials O
 Details O
 : O
@@ -34943,7 +34943,7 @@ Haiti S-LOC
 Storm O
 harms O
 charity O
-â€™s O
+’s O
 compound O
 : O
 Hurricane O
@@ -35141,7 +35141,7 @@ Italy S-LOC
 by O
 donating O
 2 O
-â‚¬ O
+€ O
 with O
 this O
 text O
@@ -35155,7 +35155,7 @@ Please O
 spread O
 the O
 word O
-á½¤Fá¼¿C O
+ὤFἿC O
 # O
 PrayForItaly O
 
@@ -35369,8 +35369,8 @@ Italian O
 red O
 cross O
 at O
-â¤ O
-ï¸ O
+❤ O
+️ O
 
 Death O
 toll O
@@ -35468,7 +35468,7 @@ SMS O
 to O
 donate O
 2 O
-â‚¬ O
+€ O
 for O
 # O
 ItalyEarthquake O
@@ -35512,7 +35512,7 @@ in O
 coordination O
 with O
 Italy S-LOC
-â€™s O
+’s O
 Civilian O
 Protection O
 agency O
@@ -35692,7 +35692,7 @@ by O
 the O
 earthquake O
 ! O
-á¼žEá¼Ÿ9 O
+἞E἟9 O
 # O
 PrayForItaly O
 
@@ -36008,7 +36008,7 @@ people O
 to O
 donate O
 2 O
-â‚¬ O
+€ O
 by O
 texting O
 or O
@@ -36140,7 +36140,7 @@ earthquake O
 because O
 many O
 dead O
-á½¡4 O
+ὡ4 O
 # O
 Prayforitaly O
 @TeriPolo1 O
@@ -36193,7 +36193,7 @@ help O
 us O
 donate O
 2 O
-â‚¬ O
+€ O
 by O
 calling O
 or O
@@ -37231,7 +37231,7 @@ tells O
 of O
 earthquake O
 rescue O
-â€“ O
+– O
 video O
 
 Kinda O
@@ -37364,7 +37364,7 @@ as O
 tsunami O
 threat O
 passes O
-â€“ O
+– O
 live O
 
 @musenz O
@@ -37480,12 +37480,12 @@ nt O
 walk O
 to O
 work O
-á½ 5 O
+ὠ5 O
 Stay O
 safe O
 everyone O
 ! O
-á½ A O
+ὠA O
 # O
 fridaay O
 
@@ -37958,7 +37958,7 @@ had O
 a O
 7.1 O
 earthquake O
-á½¢D O
+ὢD O
 they O
 are O
 so O
@@ -38186,8 +38186,8 @@ tsunami O
 # O
 eqnz O
 
-â–¶ O
-ï¸ O
+▶ O
+️ O
 Stuart O
 Smith O
 , O
@@ -38231,7 +38231,7 @@ safe O
 NZ S-LOC
 # O
 eqnz O
-á½¢Cá½¤8 O
+ὢCὤ8 O
 
 Tsunami O
 sirens O
@@ -38531,7 +38531,7 @@ defence O
 ministries O
 , O
 volunteers O
-á½¤Fá½„D O
+ὤFὄD O
 
 RT O
 @ARnews1936 O
@@ -38628,7 +38628,7 @@ rocked O
 by O
 strong O
 earthquake O
-á½‘3 O
+ὑ3 O
 
 Power O
 is O
@@ -38674,7 +38674,7 @@ eqnz O
 
 LIVE O
 BLOG O
-â€“ O
+– O
 DAY O
 4 O
 : O
@@ -38845,7 +38845,7 @@ Inka O
 No O
 more O
 Discussions O
-âœ“ O
+✓ O
 Kerala S-LOC
 minister O
 responds O
@@ -38868,7 +38868,7 @@ Prabhas O
 as O
 role O
 model O
-á½ E O
+ὠE O
 # O
 KeralaReliefFund O
 # O
@@ -39079,7 +39079,7 @@ to O
 all O
 the O
 superheros O
-á½¤Fá¼¿Dá½„Fá¼¿D O
+ὤFἿDὄFἿD O
 who O
 are O
 working O
@@ -39107,7 +39107,7 @@ especially O
 the O
 Real O
 heros O
-fishermená½¤Fá¼¿D O
+fishermenὤFἿD O
 & O
 many O
 more O
@@ -39133,7 +39133,7 @@ Kerala S-LOC
 CM O
 Distress O
 Relief O
-Fundá½¤Fá½„C O
+FundὤFὄC O
 # O
 KeralaFloodRelief O
 
@@ -39159,7 +39159,7 @@ Rs O
 lakh O
 to O
 CM O
-â€™s O
+’s O
 Relief O
 Fund O
 . O
@@ -39169,7 +39169,7 @@ to O
 U O
 # O
 Hanan O
-á½„F O
+ὄF O
 # O
 Meem4Kerala O
 
@@ -39459,20 +39459,20 @@ is O
 a O
 case O
 of O
-â—¼ï¸CARDINAL O
+◼️CARDINAL O
 SIN O
-â—¼ï¸POLITICAL O
+◼️POLITICAL O
 HARAKIRI O
-â—¼ï¸ACT O
+◼️ACT O
 OF O
 INHUMANITY O
-â—¼ï¸TERRIBLE O
+◼️TERRIBLE O
 GOVERNANCE O
-â—¼ï¸GOVTs O
+◼️GOVTs O
 ASSAULT O
 ON O
 CITIZENS O
-â—¼ï¸MENTAL O
+◼️MENTAL O
 BANKRUPTCY O
 OF O
 BJP O
@@ -39806,7 +39806,7 @@ AIMIMs O
 Medical O
 Relief O
 Worth O
-â‚¹25Lakhs O
+₹25Lakhs O
 For O
 Flood O
 Effected O
@@ -39980,13 +39980,13 @@ Dir O
 @ARMurugadoss O
 has O
 donated O
-â‚¹ O
+₹ O
 10 O
 Lakhs O
 to O
 # O
 KeralaReliefFund O
-á½„Fá½„F O
+ὄFὄF O
 @RIAZtheboss O
 
 * O
@@ -40095,7 +40095,7 @@ Godman O
 He O
 is O
 a O
-á½ 8 O
+ὠ8 O
 Devil O
 ! O
 Such O
@@ -40158,7 +40158,7 @@ the O
 owner O
 of O
 India S-LOC
-â€™s O
+’s O
 largest O
 mall O
 , O
@@ -40683,7 +40683,7 @@ Tharoor O
 Knocks O
 on O
 UN O
-â€™s O
+’s O
 Door O
 for O
 Kerala S-LOC
@@ -40695,7 +40695,7 @@ Earlier O
 Apple O
 also O
 donated O
-â‚¹ O
+₹ O
 7 O
 Crore O
 for O
@@ -41251,7 +41251,7 @@ to O
 Kerala S-LOC
 Chief O
 Minister O
-â€™s O
+’s O
 Distress O
 Relief O
 Fund O
@@ -41297,7 +41297,7 @@ Fund O
 KeralaFloods O
 : O
 Here O
-â€™s O
+’s O
 how O
 tech O
 companies O
@@ -41545,7 +41545,7 @@ Kerala S-LOC
 CM O
 Relief O
 Fund.#KeralaFloodRelief O
-á½„F O
+ὄF O
 
 RT O
 @VMBJP O
@@ -42334,13 +42334,13 @@ Kerala S-LOC
 . O
 There O
 ca O
-nâ€™t O
+n’t O
 be O
 a O
 greater O
-â€˜ O
+‘ O
 Qurbani O
-â€™ O
+’ O
 than O
 helping O
 your O
@@ -42506,7 +42506,7 @@ brothers O
 for O
 your O
 selfless O
-service.á½¤F O
+service.ὤF O
 # O
 KeralaFloods O
 # O
@@ -42668,7 +42668,7 @@ Police O
 ANI O
 ) O
 Here O
-â€™s O
+’s O
 how O
 you O
 can O
@@ -42801,7 +42801,7 @@ victims O
 . O
 I O
 ca O
-nâ€™t O
+n’t O
 believe O
 Kudos O
 @SaginaWalyat O
@@ -42815,8 +42815,8 @@ Kudos O
 KeralaFloods O
 # O
 IndiaForKerala O
-âš¡ O
-ï¸ O
+⚡ O
+️ O
 Death O
 toll O
 exceeds O
@@ -42827,7 +42827,7 @@ floods O
 relief O
 operations O
 continue O
-â€ O
+” O
 @SouleFacts O
 @SadhguruOnline O
 @PMOIndia O
@@ -43099,7 +43099,7 @@ Loss O
 estimates O
 are O
 above O
-â‚¹20000 O
+₹20000 O
 crore O
 ( O
 2.7B$ O
@@ -43161,7 +43161,7 @@ will O
 contribute O
 one O
 day O
-â€™s O
+’s O
 salary O
 towards O
 flood O
@@ -43205,7 +43205,7 @@ rescue O
 a O
 woman O
 . O
-Praying.á½¤F O
+Praying.ὤF O
 
 Flood O
 Warning O
@@ -43627,7 +43627,7 @@ floods O
 - O
 ABCNEWSVideosVideo O
 News O
-Clipá½A O
+Clip὏A O
 
 A O
 Bat O
@@ -43856,7 +43856,7 @@ Maryland S-LOC
 and O
 why O
 we O
-â€™d O
+’d O
 better O
 get O
 proactive O
@@ -44130,7 +44130,7 @@ ripped O
 through O
 Ellicott B-LOC
 City E-LOC
-â€™s O
+’s O
 flood O
 - O
 prone O
@@ -44410,7 +44410,7 @@ reported O
 missing O
 from O
 Sunday O
-â€™s O
+’s O
 devastating O
 floods O
 . O
@@ -44515,7 +44515,7 @@ do O
 need O
 some O
 walls O
-â€” O
+— O
 but O
 they O
 re O
@@ -44694,7 +44694,7 @@ recovery O
 efforts O
 following O
 March O
-â€™s O
+’s O
 flooding O
 and O
 blizzard O
@@ -44753,7 +44753,7 @@ support O
 of O
 volunteers O
 ! O
-á½ 1 O
+ὠ1 O
 
 Nebraskas S-LOC
 latest O
@@ -44826,7 +44826,7 @@ road O
 to O
 recovery O
 . O
-â€ºâ€º O
+›› O
 # O
 NebraskaStrong O
 
@@ -44885,7 +44885,7 @@ for O
 a O
 good O
 cause O
-á½ 9á¼·A O
+ὠ9ἷA O
 ) O
 Both O
 First O
@@ -44936,14 +44936,14 @@ supplies O
 to O
 Nebraska S-LOC
 : O
-â€˜ O
+‘ O
 Everybody O
 is O
 happy O
 to O
 see O
 us O
-â€™ O
+’ O
 
 Woman O
 buys O
@@ -44969,7 +44969,7 @@ in O
 Nebraska S-LOC
 ? O
 Here O
-â€™s O
+’s O
 how O
 to O
 find O
@@ -45086,7 +45086,7 @@ with O
 of O
 the O
 state O
-â€™s O
+’s O
 population O
 affected O
 by O
@@ -45508,7 +45508,7 @@ flood O
 relief O
 efforts O
 . O
-á¾‘7 O
+ᾑ7 O
 We O
 are O
 oNE O
@@ -45517,9 +45517,9 @@ oNE O
 NebraskaStrong O
 # O
 TeamTriage O
-á¼³D O
-â¤ O
-ï¸ O
+ἳD O
+❤ O
+️ O
 . O
 Order O
 yours O
@@ -45530,7 +45530,7 @@ rock O
 an O
 awesome O
 tee O
-á½„9 O
+ὄ9 O
 
 People O
 in O
@@ -45822,7 +45822,7 @@ Part O
 2 O
 
 There O
-â€™s O
+’s O
 still O
 flooding O
 in O
@@ -45843,7 +45843,7 @@ further O
 south O
 . O
 There O
-â€™s O
+’s O
 sure O
 to O
 be O
@@ -45869,18 +45869,18 @@ counties O
 in O
 Nebraska S-LOC
 declared O
-â€˜ O
+‘ O
 A O
 State O
 of O
 Emergency O
-â€™ O
+’ O
 from O
 flooding O
 . O
 But O
 do O
-nâ€™t O
+n’t O
 worry O
 Trump O
 is O
@@ -45965,7 +45965,7 @@ here O
 This O
 week O
 I O
-â€™ll O
+’ll O
 be O
 caddying O
 for O
@@ -46100,7 +46100,7 @@ honored O
 at O
 the O
 Barristers O
-â€™ O
+’ O
 Ball O
 for O
 his O
@@ -46160,7 +46160,7 @@ lower O
 than O
 last O
 year O
-â€™s O
+’s O
 numbers O
 . O
 # O
@@ -46326,10 +46326,10 @@ for O
 donating O
 to O
 Nebraska S-LOC
-â€™s O
+’s O
 relief O
 efforts O
-á½¤Fá¼¿D O
+ὤFἿD O
 
 .@charlescityffa O
 & O
@@ -46424,7 +46424,7 @@ Please O
 donate O
 to O
 their O
-gofundme!á½0 O
+gofundme!ὁ0 O
 # O
 Survivor O
 
@@ -46489,8 +46489,8 @@ are O
 # O
 NebraskaStrong O
 . O
-âœŠ O
-á¼¿E O
+✊ O
+ἿE O
 
 Local O
 farmers O
@@ -46537,9 +46537,9 @@ Spokane O
 for O
 your O
 generosity O
-á½¤Cá¼¿B O
+ὤCἿB O
 he O
-â€™ll O
+’ll O
 be O
 sending O
 me O
@@ -46591,7 +46591,7 @@ available O
 . O
 # O
 2019FloodFight O
-á½7 O
+὏7 O
 : O
 CPT O
 R. O
@@ -46637,7 +46637,7 @@ flood O
 victims O
 . O
 # O
-NebraskaStrongá½‰9 O
+NebraskaStrongὉ9 O
 
 # O
 TrueLeaders O
@@ -46751,7 +46751,7 @@ way O
 we O
 can O
 . O
-â€ O
+” O
 -NRCSA O
 Exec O
 Director O
@@ -46964,7 +46964,7 @@ do O
 more O
 . O
 
-á½ Aá½ A O
+ὠAὠA O
 Feel O
 good O
 post O
@@ -47239,13 +47239,13 @@ on O
 Facebook O
 . O
 It O
-â€™s O
+’s O
 so O
 sad O
 that O
 this O
 is O
-nâ€™t O
+n’t O
 being O
 nationally O
 televised O
@@ -47258,7 +47258,7 @@ has O
 no O
 idea O
 what O
-â€™s O
+’s O
 happening O
 
 # O
@@ -47266,7 +47266,7 @@ mudfloods2019 O
 told O
 you O
 so O
-â€ O
+” O
 more O
 to O
 come O
@@ -47463,7 +47463,7 @@ Nebraska S-LOC
 flood O
 victims O
 
-2ï¸âƒ£ O
+2️⃣ O
 KANEKO O
 will O
 be O
@@ -47557,7 +47557,7 @@ emergency O
 personnel O
 . O
 I O
-â€™m O
+’m O
 joined O
 by O
 NE O
@@ -47956,7 +47956,7 @@ about O
 . O
 Now O
 here O
-â€™s O
+’s O
 the O
 question O
 : O
@@ -48000,7 +48000,7 @@ Omaha S-LOC
 show O
 
 We O
-â€™re O
+’re O
 up O
 to O
 almost O
@@ -48220,16 +48220,16 @@ Pakistan S-LOC
 # O
 pakistan S-LOC
 
-â¦Thank O
+⁦Thank O
 you O
-â¦@ndmapkâ© O
+⁦@ndmapk⁩ O
 for O
 issuing O
 following O
 earthquake O
 aftershocks O
 alert O
-á½ª8 O
+Ὢ8 O
 . O
 # O
 Earthquake O
@@ -49004,7 +49004,7 @@ in O
 your O
 PRAYERS O
 ! O
-á½¢Dá½‰4 O
+ὢDὉ4 O
 
 As O
 survey O
@@ -49456,12 +49456,12 @@ split O
 after O
 horrible O
 earthquake O
-á½£1 O
+ὣ1 O
 Allah O
 save O
 us O
 please O
-á½¤Fá½¢D O
+ὤFὢD O
 # O
 earthquake O
 # O
@@ -49892,7 +49892,7 @@ areas O
 affected O
 by O
 yesterday O
-â€™s O
+’s O
 # O
 earthquake O
 in O
@@ -49938,7 +49938,7 @@ has O
 struck O
 # O
 Pakistan S-LOC
-â€™s O
+’s O
 capital O
 # O
 Islamabad S-LOC
@@ -49981,7 +49981,7 @@ a O
 terrible O
 earthquake O
 that O
-â€™s O
+’s O
 claimed O
 at O
 least O
@@ -50146,7 +50146,7 @@ injured O
 due O
 to O
 yesterday O
-â€™s O
+’s O
 earthquake O
 in O
 # O
@@ -50176,7 +50176,7 @@ lives O
 Donate O
 NOW O
 : O
-Â£ O
+£ O
 75 O
 could O
 provide O
@@ -50382,7 +50382,7 @@ to O
 Hospital O
 so O
 Far O
-á½¡3á½¡3 O
+ὡ3ὡ3 O
 # O
 earthquake O
 
@@ -50406,8 +50406,8 @@ Allah O
 have O
 mercy O
 upon O
-us.á½‰4 O
-Prayersá¾“2 O
+us.Ὁ4 O
+Prayersᾓ2 O
 # O
 earthquake O
 
@@ -50478,7 +50478,7 @@ safe O
 please O
 take O
 care O
-â™¥ O
+♥ O
 # O
 earthquake O
 
@@ -50579,7 +50579,7 @@ apt O
 bldg O
 damage O
 # O
-FuerzaMÃ©xico O
+FuerzaMéxico O
 
 RT O
 @bayareabites O
@@ -50638,7 +50638,7 @@ and O
 unity O
 during O
 Mexico S-LOC
-â€™s O
+’s O
 earthquake O
 rescue O
 efforts O
@@ -50729,7 +50729,7 @@ of O
 responds O
 to O
 Trump O
-â€™s O
+’s O
 attacks O
 by O
 asking O
@@ -50742,7 +50742,7 @@ earthquake O
 victims O
 . O
 That O
-â€™s O
+’s O
 how O
 you O
 use O
@@ -50772,7 +50772,7 @@ in O
 Mexico S-LOC
 . O
 Video O
-á½„Dá½„Fá½ A O
+ὄDὄFὠA O
 
 RT O
 @SamWalkers O
@@ -50841,14 +50841,14 @@ help O
 . O
 
 Therapists O
-Â´ O
+´ O
 Clinic O
 Destroyed O
 in O
 Mexico B-LOC
 City E-LOC
 Earthquake O
-vÃ­a O
+vía O
 @youcaring O
 
 RT O
@@ -51070,7 +51070,7 @@ Harvey O
 , O
 Irma O
 , O
-JosÃ© O
+José O
 , O
 and O
 Maria O
@@ -51159,7 +51159,7 @@ in O
 the O
 Mexico S-LOC
 earthquake O
-á½¢5á½‰4 O
+ὢ5Ὁ4 O
 i O
 m O
 keeping O
@@ -51246,7 +51246,7 @@ earthquake O
 . O
 # O
 FuerzaMexico O
-á¼Ÿ2á¼ŸD O
+἟2἟D O
 
 RT O
 @ABC7 O
@@ -51383,7 +51383,7 @@ GOOD O
 MORNING O
 PHILIPPINES S-LOC
 ! O
-á¼Ÿ5á¼žD O
+἟5἞D O
 
 RT O
 @OCHLA_OH O
@@ -51423,7 +51423,7 @@ collapsed O
 primary O
 school O
 
-á¼Ÿ2á¼ŸD O
+἟2἟D O
 Along O
 with O
 @RFC_Charity O
@@ -51436,7 +51436,7 @@ to O
 donate O
 to O
 @UNICEF O
-â€™s O
+’s O
 Mexico S-LOC
 Earthquake O
 Appeal O
@@ -51546,7 +51546,7 @@ are O
 welcome O
 ! O
 
-á½¡E O
+ὡE O
 and O
 there O
 was O
@@ -51567,7 +51567,7 @@ Force O
 Indias O
 Perez O
 donates O
-Â£ O
+£ O
 125,000 O
 to O
 Mexico S-LOC
@@ -51577,7 +51577,7 @@ victims O
 Daily O
 Mail O
 # O
-á¼Ÿ2á¼ŸDtodosuno O
+἟2἟Dtodosuno O
 ! O
 
 I O
@@ -51740,7 +51740,7 @@ via O
 
 We O
 donated O
-â‚¬ O
+€ O
 83,500 O
 to O
 @RedCross O
@@ -51970,7 +51970,7 @@ Mexico S-LOC
 Any O
 donation O
 helps O
-á½‰C O
+ὉC O
 
 People O
 are O
@@ -51989,7 +51989,7 @@ in O
 Mexico S-LOC
 @NintendoAmerica O
 
-á¼°Dá¼°Fá¼°EINTERNATIONAL O
+ἰDἰFἰEINTERNATIONAL O
 FRIENDS O
 WE O
 NEED O
@@ -52339,7 +52339,7 @@ Donations O
 for O
 Mexicos S-LOC
 earthquake O
-á½¤Fá¼¿D O
+ὤFἿD O
 thanks O
 bruh O
 
@@ -52350,7 +52350,7 @@ your O
 help O
 ! O
 ! O
-á½¤Fá¼¿Cá½¤Fá¼¿C O
+ὤFἿCὤFἿC O
 # O
 mexico S-LOC
 # O
@@ -52393,7 +52393,7 @@ help O
 even O
 if O
 you O
-â€™re O
+’re O
 not O
 in O
 Mexico S-LOC
@@ -52495,9 +52495,9 @@ why O
 i O
 love O
 mexico S-LOC
-á½¢2 O
-â¤ O
-ï¸á¼Ÿ2á¼ŸD O
+ὢ2 O
+❤ O
+️἟2἟D O
 
 We O
 are O
@@ -52714,11 +52714,11 @@ PayPal O
 donativos@brigada-rescate-topos.org O
 
 Sergio O
-PÃ©rez O
+Pérez O
 has O
 donated O
 around O
-Â£ O
+£ O
 125,000 O
 to O
 help O
@@ -52816,8 +52816,8 @@ N O
 MI O
 GENTE O
 FEATURING O
-BEYONCÃ‰ O
-â€ O
+BEYONCÉ O
+” O
 To O
 help O
 hurricane O
@@ -52969,9 +52969,9 @@ fellow O
 people O
 in O
 Mexico S-LOC
-á¼Ÿ2á¼ŸD O
-â¬‡ O
-ï¸ O
+἟2἟D O
+⬇ O
+️ O
 
 Two O
 people O
@@ -53350,9 +53350,9 @@ Young O
 - O
 ae O
 , O
-â€˜ O
+‘ O
 Changumi O
-â€™ O
+’ O
 in O
 Sujatha O
 Diyani O
@@ -53379,7 +53379,7 @@ zulfiquar O
 entered O
 sri B-LOC
 lanka E-LOC
-á¼Ÿ1á¼Ÿ0 O
+἟1἟0 O
 for O
 humanitarian O
 mission O
@@ -53391,7 +53391,7 @@ flood O
 reliefmissions O
 # O
 pakistannavy O
-á¼Ÿ5á¼Ÿ0 O
+἟5἟0 O
 
 EU S-LOC
 provides O
@@ -53569,7 +53569,7 @@ floods O
 in O
 # O
 SriLanka S-LOC
-á¼Ÿ1á¼Ÿ0 O
+἟1἟0 O
 . O
 Strengthening O
 medical O
@@ -53665,7 +53665,7 @@ provides O
 satellite O
 maps O
 and O
-â‚¬ O
+€ O
 300 O
 000 O
 for O
@@ -53796,11 +53796,11 @@ of O
 SriLanka S-LOC
 caused O
 : O
-âž¨ O
+➨ O
 deaths O
-âž¨ O
+➨ O
 displacements O
-âž¨ O
+➨ O
 infrastructure O
 damage O
 
@@ -53844,7 +53844,7 @@ SriLankaFloods O
 USS O
 # O
 LakeErie O
-â€™s O
+’s O
 crew O
 continues O
 support O
@@ -54001,14 +54001,14 @@ iccchampionstrophy2017 O
 # O
 FloodSL O
 
-á¼°F O
+ἰF O
 Please O
 donate O
 funds O
 for O
 # O
 SriLanka S-LOC
-á¼Ÿ1á¼Ÿ0Worst O
+἟1἟0Worst O
 flooding O
 since O
 2003 O
@@ -54091,3 +54091,4 @@ receive O
 of O
 all O
 proceeds O
+
