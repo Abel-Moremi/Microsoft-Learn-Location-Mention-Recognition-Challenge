@@ -890,7 +890,7 @@ Tennessee	E-LOC
 heading	O
 North	I-LOC
 Carolina	I-LOC
-morning	E-LOC
+morning	O
 They	O
 join	O
 people	O
@@ -1002,7 +1002,7 @@ snows	O
 target	O
 centralnorthwest	O
 areas	O
-tonightdrying	S-LOC
+tonightdrying	O
 weekend	O
 N	O
 NEwx	O
@@ -1269,7 +1269,7 @@ airlift	O
 SR	O
 teams	O
 Quito	E-LOC
-city	E-LOC
+city	O
 Manta	I-LOC
 Ecuador	B-LOC
 earthquake	O
@@ -1392,7 +1392,7 @@ youplease	O
 RT	O
 international	O
 donations	O
-prayfor	S-LOC
+prayfor	O
 
 RT	O
 Apple	O
@@ -1659,7 +1659,7 @@ transporting	O
 rice	O
 bags	O
 relief	O
-camp	B-LOC
+camp	O
 Wayanad	S-LOC
 Great	O
 FFFF	O
@@ -6561,9 +6561,9 @@ coast	O
 evacuate	O
 chch	O
 newzealand	S-LOC
-christchurch	S-LOC
+christchurch	O
 tsunami	O
-nz	S-LOC
+nz	O
 earthquake	O
 eqnz	O
 
@@ -7321,7 +7321,7 @@ cholera	O
 vaccine	O
 arrived	O
 inMozambique	O
-todaya	S-LOC
+todaya	O
 massive	O
 immunization	O
 campaign	O
@@ -8372,7 +8372,7 @@ camp	O
 Kaipathur	I-LOC
 Kalady	I-LOC
 Ernakulam	B-LOC
-district	E-LOC
+district	O
 Follow	O
 LIVE	O
 updates	O
@@ -9564,7 +9564,7 @@ plans	O
 Kerala	B-LOC
 In	O
 Nepal	E-LOC
-earthquake	E-LOC
+earthquake	O
 got	O
 bibles	O
 food	O
@@ -9817,7 +9817,7 @@ keep	O
 coming	O
 cycloneidai	O
 togetherasone	O
-wearezimbabwe	S-LOC
+wearezimbabwe	O
 
 Its	O
 upsetting	O
@@ -10070,7 +10070,7 @@ still	O
 going	O
 Christchurch	O
 looking	O
-east	B-LOC
+east	O
 Heathcote	B-LOC
 Valley	E-LOC
 eqnz	O
@@ -11772,7 +11772,7 @@ victims	O
 fleeing	O
 Florence	I-LOC
 NC	E-LOC
-coast	E-LOC
+coast	O
 The	O
 shelter	O
 accommodate	O
@@ -12863,7 +12863,7 @@ Carlos	O
 ones	O
 happening	O
 Niger	S-LOC
-state	E-LOC
+state	O
 Devastated	O
 homes	O
 property	O
@@ -13847,7 +13847,7 @@ ungangoita	O
 kuti	O
 varare	O
 vambosekererawo	O
-nhasi	S-LOC
+nhasi	O
 
 For	O
 great	O
@@ -16800,7 +16800,7 @@ necessary	O
 RT	O
 Beastly	O
 Alberta	S-LOC
-wildfire	E-LOC
+wildfire	O
 wont	O
 die	O
 grows	O
@@ -16985,7 +16985,7 @@ More	O
 impact	O
 toward	O
 Houston	S-LOC
-area	E-LOC
+area	O
 due	O
 heavy	O
 rains	O
@@ -16999,7 +16999,7 @@ waves	O
 recorded	O
 Kaikoura	S-LOC
 km	O
-north	B-LOC
+north	O
 Christchurch	O
 tsunami	O
 caused	O
@@ -17387,7 +17387,7 @@ fuck	O
 exploit	O
 diff	O
 country	O
-bcpoli	S-LOC
+bcpoli	O
 LPC	O
 bitumen	O
 wildfire	O
@@ -17402,7 +17402,7 @@ RT	O
 post	O
 gets	O
 Houston	S-LOC
-area	E-LOC
+area	O
 help	O
 affected	O
 HurricaneHarvey	O
@@ -17740,7 +17740,7 @@ country	O
 Mexico	O
 City	O
 fuerzamexico	O
-sismomexico	S-LOC
+sismomexico	O
 
 Father	O
 daughter	O
@@ -19146,7 +19146,7 @@ Canadians	S-LOC
 Irmahit	O
 StM	O
 Thank	O
-youwe	S-LOC
+youwe	O
 hope	O
 home	O
 soon	O
@@ -19831,7 +19831,7 @@ donation	O
 jacklinks	O
 jacklinksjerky	O
 teriyakiyum	O
-damflood	S-LOC
+damflood	O
 nebraskastrong	O
 nebraskaflood	O
 boydcountystrong	O
@@ -21257,7 +21257,7 @@ floods	O
 next	O
 year	O
 Preppers	O
-preppertalk	S-LOC
+preppertalk	O
 
 Good	O
 morning	O
@@ -21698,7 +21698,7 @@ Fremont	O
 Even	O
 little	O
 helps	O
-nebraskstrong	S-LOC
+nebraskstrong	O
 Details	O
 
 ELLICOTT	O
@@ -22117,7 +22117,7 @@ Its	O
 tragic	O
 sad	O
 time	O
-greece	S-LOC
+greece	O
 people	O
 died	O
 fire	O
@@ -24003,7 +24003,7 @@ Would	O
 donation	O
 people	O
 Mexico	S-LOC
-city	E-LOC
+city	O
 needs	O
 help	O
 earthquake	O
@@ -25239,7 +25239,7 @@ affected	O
 earthquake	O
 Mexico	S-LOC
 We	O
-stan	S-LOC
+stan	O
 absolut	O
 
 Donations	O
@@ -25397,9 +25397,9 @@ Adjusters	O
 FL	S-LOC
 hurricanedorian	O
 experiencedpublicadjusters	O
-publicadjuster	I-LOC
-publicadjusternearme	S-LOC
-dorianpublicadjuster	B-LOC
+publicadjuster	O
+publicadjusternearme	O
+dorianpublicadjuster	O
 publicadjusters	O
 floridapublicadjusters	O
 
@@ -25826,7 +25826,7 @@ zones	O
 Wellington	E-LOC
 City	O
 Ngauranga	B-LOC
-eqnz	E-LOC
+eqnz	O
 
 RT	O
 EcuadorEarthquake	O
@@ -26186,7 +26186,7 @@ counting	O
 li	O
 yegre	O
 realestate	O
-edmonton	S-LOC
+edmonton	O
 mortgage	O
 
 RT	O
@@ -26217,7 +26217,7 @@ Kerala	O
 
 volunteers	O
 travel	O
-west	S-LOC
+west	O
 help	O
 Alberta	S-LOC
 wildfire	O
@@ -27342,7 +27342,7 @@ fundraised	O
 cater	O
 victims	O
 president	O
-zim	S-LOC
+zim	O
 ruler	O
 doesnt	O
 even	O
@@ -28653,7 +28653,7 @@ The	O
 views	O
 getting	O
 back	O
-malawi	S-LOC
+malawi	O
 beautiful	O
 tea	O
 africa	O
@@ -28724,7 +28724,7 @@ outside	O
 homes	O
 
 RT	O
-earthquake	I-LOC
+earthquake	O
 mexico	S-LOC
 For	O
 PM	O
@@ -28827,7 +28827,7 @@ HEROES	O
 rescue	O
 dogs	O
 Alberta	S-LOC
-wildfire	E-LOC
+wildfire	O
 ymmhelps	O
 ymmfire	O
 
@@ -29823,9 +29823,9 @@ New	B-LOC
 Zealand	I-LOC
 Liquifaction	O
 Tsunami	O
-mtrs	B-LOC
+mtrs	O
 East	O
-coast	E-LOC
+coast	O
 high	O
 alert	O
 Wellington	E-LOC
@@ -30676,11 +30676,11 @@ rises	O
 California	B-LOC
 fires	O
 Mexican	I-LOC
-city	E-LOC
+city	O
 residents	O
 protest	O
 migrant	O
-caravan	S-LOC
+caravan	O
 Gov	O
 Jay	O
 Inslees	O
@@ -31726,7 +31726,7 @@ victims	O
 PuertoRico	E-LOC
 arrive	O
 NJ	B-LOC
-njmorningshow	S-LOC
+njmorningshow	O
 
 The	O
 seeks	O
@@ -33277,7 +33277,7 @@ flooding	O
 The	O
 street	O
 front	O
-khou	B-LOC
+khou	O
 Harvey	O
 
 Cyclone	O
@@ -33326,7 +33326,7 @@ emergency	O
 kit	O
 temblor	O
 Ecuador	S-LOC
-terremoto	S-LOC
+terremoto	O
 
 RT	O
 Major	O
@@ -33698,7 +33698,7 @@ everyone	O
 Thankyou	O
 UAE	E-LOC
 Government	O
-cr	B-LOC
+cr	O
 Kerala	B-LOC
 Flood	O
 Relief	O
@@ -33747,7 +33747,7 @@ may	O
 evacuate	O
 brunt	O
 storm	O
-psalmsdoula	S-LOC
+psalmsdoula	O
 
 The	O
 next	O
@@ -33836,7 +33836,7 @@ updates	O
 Florence	O
 impact	O
 Charlotte	S-LOC
-area	E-LOC
+area	O
 weather	O
 hurricane	O
 WCCB	O
@@ -34770,7 +34770,7 @@ World	O
 Vision	O
 Canada	B-LOC
 live	O
-cfax	S-LOC
+cfax	O
 
 BREAKING	O
 Death	O
@@ -34888,7 +34888,7 @@ rain	O
 already	O
 reported	O
 Houston	B-LOC
-area	E-LOC
+area	O
 
 RT	O
 Please	O
@@ -35340,7 +35340,7 @@ Im	O
 FFF	O
 HurricaneDorian	O
 turns	O
-north	B-LOC
+north	O
 Florida	E-LOC
 trouble	O
 How	O
@@ -35524,7 +35524,7 @@ along	O
 coast	O
 wildfire	O
 fire	O
-greece	S-LOC
+greece	O
 
 Chef	O
 Jose	O

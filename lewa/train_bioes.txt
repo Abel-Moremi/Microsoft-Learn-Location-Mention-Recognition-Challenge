@@ -790,7 +790,7 @@ Her	O
 name	O
 Frida	O
 pics	O
-awww	S-LOC
+awww	O
 
 Rain	O
 bring	O
@@ -1940,7 +1940,7 @@ evacuations	O
 ordered	O
 Were	O
 preparing	O
-newbernstrong	S-LOC
+newbernstrong	O
 
 UPDATE	O
 Killed	O
@@ -3606,7 +3606,7 @@ areas	O
 opposition	O
 
 Alberta	B-LOC
-wildfire	E-LOC
+wildfire	O
 Emergency	O
 declared	O
 Fort	I-LOC
@@ -3697,7 +3697,7 @@ Grand	O
 Bahama	B-LOC
 island	I-LOC
 category	O
-hurricane	B-LOC
+hurricane	O
 percent	O
 buildings	O
 area	O
@@ -4110,7 +4110,7 @@ Destructive	O
 surf	O
 hurricane	O
 winds	O
-kolrwx	S-LOC
+kolrwx	O
 
 RT	O
 If	O
@@ -4144,7 +4144,7 @@ Stay	O
 safe	O
 everyone	O
 A	O
-fridaay	S-LOC
+fridaay	O
 
 From	O
 Australia	E-LOC
@@ -4978,7 +4978,7 @@ water	O
 supply	O
 brooklyn	S-LOC
 eqnz	O
-wgtnwaternz	S-LOC
+wgtnwaternz	O
 
 So	O
 many	O
@@ -5221,7 +5221,7 @@ kahan	E-LOC
 ponch	O
 gai	O
 hm	O
-kis	S-LOC
+kis	O
 level	O
 mn	O
 phansy	O
@@ -5372,7 +5372,7 @@ cat	O
 behind	O
 restaurant	O
 flooding	O
-county	E-LOC
+county	O
 seat	O
 Howard	B-LOC
 County	I-LOC
@@ -5412,7 +5412,7 @@ work	O
 camps	O
 evacuated	O
 Alberta	S-LOC
-wildfire	E-LOC
+wildfire	O
 moves	O
 north	O
 HR	O
@@ -6708,7 +6708,7 @@ flood	O
 victims	O
 We	O
 appreciate	O
-yousouthlandstrong	S-LOC
+yousouthlandstrong	O
 
 Lady	O
 Gaga	O
@@ -6872,7 +6872,7 @@ wildfire	O
 victims	O
 
 RT	O
-earthquake	E-LOC
+earthquake	O
 dead	O
 last	O
 years	O
@@ -7193,7 +7193,7 @@ disaster	O
 response	O
 team	O
 help	O
-battle	B-LOC
+battle	O
 Alberta	B-LOC
 wildfire	O
 
@@ -7446,7 +7446,7 @@ performance	O
 Mexican	O
 fundraising	O
 fundraiser	O
-calgary	S-LOC
+calgary	O
 community	O
 help	O
 mexico	S-LOC
@@ -8586,7 +8586,7 @@ trapped	O
 victims	O
 
 Maryland	E-LOC
-county	E-LOC
+county	O
 grapples	O
 devastation	O
 left	O
@@ -8930,7 +8930,7 @@ funds	O
 Mexico	S-LOC
 wall	O
 help	O
-hurricane	B-LOC
+hurricane	O
 Mexico	O
 earthquake	O
 victims	O
@@ -9289,7 +9289,7 @@ activities	O
 accommodation	O
 camps	O
 Sofala	S-LOC
-province	E-LOC
+province	O
 focusing	O
 life	O
 saving	O
@@ -10275,7 +10275,7 @@ among	O
 structures	O
 survived	O
 wooden	O
-menorah	S-LOC
+menorah	O
 
 This	O
 unbelievably	O
@@ -10814,7 +10814,7 @@ dangerous	O
 flooding	O
 
 Monroe	S-LOC
-county	E-LOC
+county	O
 special	O
 ops	O
 teams	O
@@ -12465,7 +12465,7 @@ friends	O
 still	O
 OrlandoMelbourne	O
 Miami	I-LOC
-area	E-LOC
+area	O
 PLEASE	O
 stay	O
 safe	O
@@ -13580,7 +13580,7 @@ Auckland	S-LOC
 Especially	O
 Maraetai	O
 Beachlands	O
-eqnz	E-LOC
+eqnz	O
 
 Dorian	O
 destroyed	O
@@ -13724,7 +13724,7 @@ likely	O
 affect	O
 Puerto	B-LOC
 Ricos	O
-economy	E-LOC
+economy	O
 heavily	O
 increasing	O
 contract	O
@@ -15809,7 +15809,7 @@ Sindhu	O
 Forbes	O
 list	O
 top	O
-highestpaid	S-LOC
+highestpaid	O
 femaleathletes	O
 AirIndia	O
 seeks	O
@@ -16050,8 +16050,8 @@ warning	O
 
 Harvey	O
 makes	O
-nd	B-LOC
-landfall	E-LOC
+nd	O
+landfall	O
 time	O
 Louisiana	E-LOC
 people	O
@@ -16237,7 +16237,7 @@ More	O
 info	O
 
 RT	O
-st	I-LOC
+st	O
 US	O
 warship	O
 visit	O
@@ -16603,7 +16603,7 @@ could	O
 nit	O
 distributed	O
 many	O
-floodhit	B-LOC
+floodhit	O
 areas	O
 reading	O
 newspapers	O
@@ -16679,7 +16679,7 @@ Earthquke	O
 Shook	O
 The	O
 Region	O
-terremoto	S-LOC
+terremoto	O
 
 URGENT	O
 NEED	O
@@ -18199,7 +18199,7 @@ youre	O
 still	O
 looking	O
 reason	O
-stan	S-LOC
+stan	O
 Monsta	O
 X	O
 know	O
@@ -19060,7 +19060,7 @@ announces	O
 Rs	O
 cr	O
 aid	O
-floodhit	B-LOC
+floodhit	O
 Kerala	B-LOC
 
 So	O
@@ -20640,7 +20640,7 @@ Kirich	O
 crew	O
 Colombo	O
 port	O
-rchd	S-LOC
+rchd	O
 prmptly	O
 day	O
 flood	O
@@ -21173,7 +21173,7 @@ triggers	O
 tsunami	O
 New	B-LOC
 Zealand	E-LOC
-south	E-LOC
+south	O
 island	O
 switchsendai	O
 TsunamiDay	O
@@ -21288,7 +21288,7 @@ staying	O
 shelters	O
 dfw	O
 More	O
-megashelter	S-LOC
+megashelter	O
 Dallas	S-LOC
 
 Athens	B-LOC
@@ -21751,7 +21751,7 @@ biggest	O
 Affects	O
 NI	S-LOC
 SI	O
-east	E-LOC
+east	O
 coasts	O
 Leave	O
 coast	O
@@ -21825,7 +21825,7 @@ asleep	O
 Tsunami	O
 sirens	O
 far	O
-nort	S-LOC
+nort	O
 
 Quake	O
 kills	O
@@ -22398,7 +22398,7 @@ D	O
 
 North	O
 Chennai	B-LOC
-thalapathy	E-LOC
+thalapathy	O
 Vijay	O
 fans	O
 sent	O
@@ -25070,7 +25070,7 @@ ymm	O
 wake	O
 massive	O
 wildfire	O
-ymmstrong	S-LOC
+ymmstrong	O
 
 RT	O
 People	O
@@ -25458,8 +25458,8 @@ least	O
 others	O
 
 Beira	S-LOC
-city	I-LOC
-million	E-LOC
+city	O
+million	O
 people	O
 setup	O
 bellow	O
@@ -25907,7 +25907,7 @@ material	O
 worth	O
 Rs	O
 crore	O
-floodhit	B-LOC
+floodhit	O
 Kerala	B-LOC
 help	O
 State	O
@@ -25999,8 +25999,8 @@ RotoruaNZ	O
 CivilDefence	O
 A	O
 tsunami	O
-marine	B-LOC
-beach	E-LOC
+marine	O
+beach	O
 national	O
 warning	O
 CANCELLED	O
@@ -26981,7 +26981,7 @@ issued	O
 southern	O
 Prince	O
 Georges	O
-western	E-LOC
+western	O
 Charles	O
 counties	O
 Maryland	S-LOC
@@ -28851,7 +28851,7 @@ result	O
 CycloneIdai	O
 
 Continued	O
-highwater	S-LOC
+highwater	O
 levels	O
 area	O
 Columbus	B-LOC
@@ -30567,8 +30567,8 @@ death	O
 toll	O
 storm	O
 
-e	B-LOC
-city	E-LOC
+e	O
+city	O
 Beira	B-LOC
 Mozambique	E-LOC
 wher	O
@@ -30607,7 +30607,7 @@ City	O
 magnitude	O
 earthquake	O
 near	O
-city	E-LOC
+city	O
 left	O
 dead	O
 
@@ -30842,7 +30842,7 @@ damage	O
 minority	O
 areas	O
 Houston	S-LOC
-harvey	E-LOC
+harvey	O
 trumpintx	O
 trumpinTexas	O
 
@@ -33941,7 +33941,7 @@ FloodSL	O
 FortMcMurray	S-LOC
 evacuees	O
 info	O
-edmonton	S-LOC
+edmonton	O
 YEG	O
 ymmfire	O
 ymmhelps	O
@@ -34299,7 +34299,7 @@ RT	O
 Help	O
 us	O
 raise	O
-k	B-LOC
+k	O
 Mexico	S-LOC
 Earthquake	O
 Relief	O
@@ -34416,7 +34416,7 @@ villages	O
 become	O
 ghost	O
 towns	O
-terremoto	S-LOC
+terremoto	O
 
 List	O
 Flood	O
@@ -34762,7 +34762,7 @@ Chivhunze	O
 
 RT	O
 In	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 Sikh	O
 volunteers	O
@@ -36657,7 +36657,7 @@ occurred	O
 KeyWest	B-LOC
 parts	O
 MonroeCounty	E-LOC
-ppl	E-LOC
+ppl	O
 injured	O
 
 Thoughts	O
@@ -36928,7 +36928,7 @@ Today	O
 month	O
 CycloneIdai	O
 hit	O
-st	S-LOC
+st	O
 reach	O
 J	O
 Manguena	O
@@ -37842,7 +37842,7 @@ estimated	O
 homes	O
 destroyed	O
 Houston	S-LOC
-area	E-LOC
+area	O
 due	O
 Harvey	O
 
@@ -38362,7 +38362,7 @@ MarkChipman	O
 Premier	O
 Notley	O
 update	O
-northern	B-LOC
+northern	O
 Alberta	S-LOC
 wildfire	O
 relief	O
@@ -38401,7 +38401,7 @@ More	O
 people	O
 killed	O
 across	O
-central	B-LOC
+central	O
 Mexico	S-LOC
 deadliest	O
 earthquake	O
@@ -39464,7 +39464,7 @@ former	O
 Sears	O
 Building	O
 E	O
-th	E-LOC
+th	O
 Street	O
 Chico	O
 CA	O
@@ -39860,7 +39860,7 @@ RT	O
 Incredible	O
 images	O
 emerge	O
-wheelchairbound	S-LOC
+wheelchairbound	O
 man	O
 joined	O
 earthquake	O
@@ -40476,7 +40476,7 @@ Thiruvananthapuram	O
 th	O
 August	O
 visit	O
-floodhit	B-LOC
+floodhit	O
 regions	O
 state	O
 including	O
@@ -41279,7 +41279,7 @@ killed	O
 powerful	O
 earthquake	O
 hit	O
-central	B-LOC
+central	O
 Mexico	S-LOC
 death	O
 
@@ -41525,7 +41525,7 @@ Hutt	O
 eqnz	O
 earthquake	O
 tsunami	O
-wgtn	S-LOC
+wgtn	O
 
 RT	O
 Destroyed	O
@@ -42597,7 +42597,7 @@ weeks	O
 ago	O
 CycloneIdai	O
 destroyed	O
-city	B-LOC
+city	O
 Beira	B-LOC
 Mozambique	E-LOC
 Beira	O
@@ -43446,7 +43446,7 @@ US	O
 refused	O
 help	O
 even	O
-tho	B-LOC
+tho	O
 United	I-LOC
 States	E-LOC
 territory	O
@@ -43903,7 +43903,7 @@ BREAKING	O
 Death	O
 toll	O
 weeks	O
-central	B-LOC
+central	O
 Mexico	S-LOC
 earthquake	O
 tops	O
@@ -43984,7 +43984,7 @@ tsunami	O
 Man	O
 missing	O
 Maryland	S-LOC
-city	E-LOC
+city	O
 hit	O
 true	O
 flash	O
@@ -44458,9 +44458,9 @@ Mexico	S-LOC
 I	O
 want	O
 give	O
-condolence	B-LOC
+condolence	O
 Vagas	O
-city	E-LOC
+city	O
 
 Yesterday	O
 went	O
@@ -44635,7 +44635,7 @@ ymmfire	O
 
 Evacuations	O
 ramp	O
-west	B-LOC
+west	O
 Houston	S-LOC
 neighborhoods	O
 Addicks	O
@@ -44868,8 +44868,8 @@ mountpleasant	O
 southcarolina	S-LOC
 lowcountry	O
 oystergram	O
-nicoshemcreek	B-LOC
-shemcreek	E-LOC
+nicoshemcreek	O
+shemcreek	O
 local	O
 localeats	O
 discoversc	O
@@ -44998,7 +44998,7 @@ Isro	O
 satellites	O
 come	O
 rescue	O
-floodhit	B-LOC
+floodhit	O
 Kerala	O
 Chennai	B-LOC
 News	O
@@ -46429,7 +46429,7 @@ homeless	O
 
 weeks	O
 coverage	O
-idai	S-LOC
+idai	O
 gradually	O
 fading	O
 full	O
@@ -47034,7 +47034,7 @@ pork	O
 feed	O
 Everyone	O
 welcome	O
-nebraskastrong	S-LOC
+nebraskastrong	O
 
 The	O
 Chinese	O
@@ -47232,7 +47232,7 @@ provinces	O
 afected	O
 cycloneIdai	O
 Sofala	S-LOC
-province	E-LOC
+province	O
 clear	O
 exemple	O
 devastation	O
@@ -49042,7 +49042,7 @@ collecting	O
 food	O
 trucked	O
 Alberta	B-LOC
-wildfire	E-LOC
+wildfire	O
 evacuees	O
 explains	O
 
@@ -51473,7 +51473,7 @@ SW	O
 Iowa	B-LOC
 
 Pls	O
-cpuld	S-LOC
+cpuld	O
 ask	O
 usa	O
 citizens	O
@@ -52924,7 +52924,7 @@ FF	O
 Hurricane	O
 Maria	O
 destroyed	O
-hometown	B-LOC
+hometown	O
 Utuado	S-LOC
 Desperate	O
 foodwater	O
@@ -53163,7 +53163,7 @@ retail	O
 price	O
 shoes	O
 equal	O
-kansasproud	S-LOC
+kansasproud	O
 
 Those	O
 affected	O
@@ -53805,7 +53805,7 @@ donating	O
 Alberta	S-LOC
 wildfire	O
 relief	O
-nlpoli	S-LOC
+nlpoli	O
 
 Harvey	O
 Live	O
@@ -53866,7 +53866,7 @@ hear	O
 stories	O
 boodhaNarendra	O
 PM	O
-swim	B-LOC
+swim	O
 rivers	O
 Kerala	S-LOC
 help	O
@@ -54595,7 +54595,7 @@ say	O
 death	O
 toll	O
 earthquake	O
-central	B-LOC
+central	O
 Mexico	S-LOC
 climbs	O
 
@@ -54841,7 +54841,7 @@ More	O
 churches	O
 destroyed	O
 Mexicos	O
-earthquake	E-LOC
+earthquake	O
 
 RT	O
 Disaster	O
@@ -56379,10 +56379,10 @@ Storm	O
 surge	O
 warning	O
 Lantana	O
-north	E-LOC
+north	O
 also	O
 added	O
-flwx	S-LOC
+flwx	O
 florida	E-LOC
 
 The	O
@@ -56511,7 +56511,7 @@ Nearly	O
 half	O
 houses	O
 checked	O
-firestricken	B-LOC
+firestricken	O
 areas	O
 deemed	O
 uninhabitable	O
@@ -56907,7 +56907,7 @@ Hurricane	O
 Maria	O
 
 Maryland	S-LOC
-county	E-LOC
+county	O
 grapples	O
 devastation	O
 left	O
@@ -57344,7 +57344,7 @@ wants	O
 deny	O
 foreign	O
 aid	O
-floodhit	B-LOC
+floodhit	O
 Kerala	E-LOC
 
 donate	O
@@ -57821,7 +57821,7 @@ answered	O
 call	O
 These	O
 Lancaster	O
-area	E-LOC
+area	O
 breweries	O
 collaborating	O
 beer	O
@@ -58324,7 +58324,7 @@ severe	O
 surface	O
 flooding	O
 SH	O
-north	B-LOC
+north	O
 Wellington	S-LOC
 Police	O
 ask	O
@@ -58423,7 +58423,7 @@ The	O
 countrys	O
 nd	O
 largest	O
-city	B-LOC
+city	O
 Beira	B-LOC
 buried	O
 meters	O
@@ -58776,7 +58776,7 @@ death	O
 toll	O
 earthquake	O
 shook	O
-central	B-LOC
+central	O
 Mexico	S-LOC
 raised	O
 least	O
@@ -58893,7 +58893,7 @@ thing	O
 California	S-LOC
 needs	O
 water	O
-us	S-LOC
+us	O
 valley	O
 also	O
 need	O
@@ -61774,7 +61774,7 @@ McMurray	E-LOC
 evacuated	O
 wildfire	O
 grows	O
-yeg	S-LOC
+yeg	O
 ymmfire	O
 
 RT	O
@@ -62357,7 +62357,7 @@ track	O
 well	O
 within	O
 storms	O
-cone	E-LOC
+cone	O
 uncertainty	O
 The	O
 entire	O
@@ -62748,7 +62748,7 @@ The	O
 mammoth	O
 inferno	O
 devastating	O
-northern	B-LOC
+northern	O
 Alberta	B-LOC
 destroyed	O
 mor	O
@@ -63460,11 +63460,11 @@ east	O
 I	O
 along	O
 Georgia	S-LOC
-coast	E-LOC
+coast	O
 begin	O
 tomorrow	O
 noon	O
-wrblwx	S-LOC
+wrblwx	O
 gawx	O
 
 RT	O
@@ -65443,7 +65443,7 @@ donations	O
 RT	O
 CycloneIdai	O
 killed	O
-peoplein	S-LOC
+peoplein	O
 Zimbabwe	S-LOC
 far	O
 What	O
@@ -68405,7 +68405,7 @@ supplies	O
 Puerto	B-LOC
 Rico	I-LOC
 puertorico	E-LOC
-hurricanemaria	E-LOC
+hurricanemaria	O
 
 Hires	O
 aerial	O
@@ -68428,7 +68428,7 @@ The	O
 Republic	O
 Cyprus	E-LOC
 contributing	O
-million	E-LOC
+million	O
 support	O
 affected	O
 fires	O
@@ -68641,7 +68641,7 @@ bulletin	O
 CCIIO	O
 found	O
 
-town	B-LOC
+town	O
 Amatrice	O
 destroyed	O
 magnitude	O
@@ -69523,7 +69523,7 @@ Center	O
 says	O
 storms	O
 eye	O
-north	B-LOC
+north	O
 Dominican	I-LOC
 Republic	E-LOC
 
@@ -69733,7 +69733,7 @@ efecto	O
 hasta	O
 las	O
 PM	O
-prwx	S-LOC
+prwx	O
 
 PrayforGreece	O
 gather	O
@@ -70476,7 +70476,7 @@ Middle	O
 School	O
 feeling	O
 NebraskaStrong	O
-morning	E-LOC
+morning	O
 learning	O
 countywide	O
 flood	O
@@ -71832,7 +71832,7 @@ wildfire	O
 relief	O
 fund	O
 YMMFIRE	O
-bcpoli	S-LOC
+bcpoli	O
 unions	O
 
 RT	O
@@ -72774,7 +72774,7 @@ going	O
 areas	O
 Northeastern	O
 Coast	O
-includong	S-LOC
+includong	O
 Jacksonville	S-LOC
 PM	O
 Advisory	O
@@ -73324,7 +73324,7 @@ could	O
 killed	O
 CycloneIdai	O
 
-kmh	B-LOC
+kmh	O
 winds	O
 day	O
 eqnz	O
@@ -76229,7 +76229,7 @@ RT	O
 Canadian	O
 province	O
 Alberta	B-LOC
-state	E-LOC
+state	O
 emergency	O
 FortMcMurrays	E-LOC
 wildfire	O
@@ -77166,7 +77166,7 @@ go	O
 quake	O
 hit	O
 area	O
-museumsitaly	S-LOC
+museumsitaly	O
 
 Pets	O
 displaced	O
@@ -77518,7 +77518,7 @@ ODI	O
 TI	O
 Donation	O
 
-rt	B-LOC
+rt	O
 Ecuador	S-LOC
 quake	O
 death	O
@@ -78218,8 +78218,8 @@ Bruce	O
 Animal	O
 Shelter	O
 nonprofit	O
-nokill	B-LOC
-volunteerbased	E-LOC
+nokill	O
+volunteerbased	O
 shelter	O
 Founded	O
 
@@ -78998,7 +78998,7 @@ activated	O
 Lower	B-LOC
 Hutt	E-LOC
 city	O
-wgtn	S-LOC
+wgtn	O
 eqnz	O
 
 At	O
@@ -79223,7 +79223,7 @@ living	O
 dead	O
 earthquake	O
 destroys	O
-school	B-LOC
+school	O
 Mexico	B-LOC
 City	E-LOC
 
@@ -79383,7 +79383,7 @@ Houston	B-LOC
 hosted	O
 Super	O
 Bowl	O
-khou	S-LOC
+khou	O
 
 Preview	O
 years	O
@@ -81450,7 +81450,7 @@ KeralaSOS	O
 Need	O
 Bottled	O
 water	O
-koonamav	S-LOC
+koonamav	O
 Distribution	O
 centre	O
 st	B-LOC
@@ -81643,7 +81643,7 @@ risen	O
 http	O
 
 RT	O
-ymmfire	I-LOC
+ymmfire	O
 ABfire	O
 ymmpets	O
 PETS	O
@@ -84081,7 +84081,7 @@ Im	O
 proud	O
 pack	O
 This	O
-stan	S-LOC
+stan	O
 LETS	O
 STAND	O
 TOGETHER	O
@@ -84770,7 +84770,7 @@ Hurricane	O
 Matthew	O
 damage	O
 Haiti	S-LOC
-helphaiti	S-LOC
+helphaiti	O
 
 Radio	O
 Hellas	O
@@ -86373,7 +86373,7 @@ cyclone	O
 ED	O
 flew	O
 luxury	O
-jet	B-LOC
+jet	O
 UAE	O
 left	O
 people	O
@@ -87024,7 +87024,7 @@ water	O
 medicine	O
 
 LA	B-LOC
-county	E-LOC
+county	O
 fire	O
 urban	O
 search	O
@@ -87205,7 +87205,7 @@ inside	O
 eat	O
 refrozen	O
 food	O
-wesmart	S-LOC
+wesmart	O
 
 We	O
 know	O
@@ -87382,7 +87382,7 @@ affected	O
 farmers	O
 FARMING	O
 eqnz	O
-kaikou	S-LOC
+kaikou	O
 
 Levee	O
 Breached	O
@@ -87427,7 +87427,7 @@ relief	O
 Canada	B-LOC
 Toronto	E-LOC
 Alberta	O
-hamont	S-LOC
+hamont	O
 via	O
 
 Earthquake	O
@@ -87494,7 +87494,7 @@ Fires	O
 Ontario	S-LOC
 onfires	O
 wildfire	O
-manitoba	S-LOC
+manitoba	O
 mbfires	O
 
 Donating	O
@@ -89289,7 +89289,7 @@ Flood	O
 Warning	O
 eastern	O
 PR	O
-prwx	S-LOC
+prwx	O
 
 The	O
 MDC	O
@@ -93201,7 +93201,7 @@ Pic	O
 Mirpur	O
 
 RT	O
-kylieispregnant	E-LOC
+kylieispregnant	O
 kidding	O
 tweet	O
 isnt	O
@@ -93807,7 +93807,7 @@ advisory	O
 Most	O
 South	O
 Florida	S-LOC
-cone	E-LOC
+cone	O
 However	O
 TS	O
 winds	O
@@ -95381,7 +95381,7 @@ donated	O
 clothing	O
 food	O
 diapers	O
-harvey	B-LOC
+harvey	O
 evacuees	O
 
 Red	O
@@ -97199,7 +97199,7 @@ strong	O
 winds	O
 damaging	O
 gusts	O
-kmh	B-LOC
+kmh	O
 Wellington	S-LOC
 tonight	O
 til	O
@@ -97609,7 +97609,7 @@ authority	O
 donations	O
 help	O
 Alberta	S-LOC
-wildfire	E-LOC
+wildfire	O
 evacuees	O
 entitle	O
 skip	O
@@ -98218,7 +98218,7 @@ day	O
 long	O
 rescue	O
 operations	O
-floodhit	B-LOC
+floodhit	O
 Kerala	O
 saying	O
 requests	O
@@ -99157,7 +99157,7 @@ spoke	O
 dad	O
 currently	O
 living	O
-homelessshelter	B-LOC
+homelessshelter	O
 Seoul	S-LOC
 described	O
 like	O
@@ -99435,7 +99435,7 @@ evacuation	O
 multiple	O
 GA	O
 counties	O
-hurricanedorian	S-LOC
+hurricanedorian	O
 
 Texans	O
 vs	O
@@ -100041,7 +100041,7 @@ Behind	O
 called	O
 ppl	O
 saying	O
-uae	S-LOC
+uae	O
 hasnt	O
 decided	O
 donate	O
@@ -100282,8 +100282,8 @@ Mandatory	O
 evacuation	O
 issued	O
 camps	O
-north	B-LOC
-city	E-LOC
+north	O
+city	O
 ymmfire	O
 ymm	O
 
@@ -100349,7 +100349,7 @@ Haiti	I-LOC
 Matthew	O
 category	O
 major	O
-hurricane	E-LOC
+hurricane	O
 mudslides	O
 flooding	O
 
@@ -100478,7 +100478,7 @@ magnitude	O
 earthquake	O
 Ixtlatepec	O
 Oaxaca	E-LOC
-state	E-LOC
+state	O
 Mexico	B-LOC
 September	O
 AFP	O
@@ -100702,7 +100702,7 @@ Maria	O
 destroyed	O
 everything	O
 puertorico	E-LOC
-puerto	B-LOC
+puerto	O
 
 ZF	O
 shipping	O
@@ -101756,7 +101756,7 @@ los	O
 locales	O
 de	O
 que	O
-pasa	S-LOC
+pasa	O
 Thank	O
 Sundar	O
 please	O
@@ -103752,7 +103752,7 @@ stepped	O
 forward	O
 work	O
 together	O
-onground	S-LOC
+onground	O
 
 Daring	O
 exceedingly	O
@@ -104761,7 +104761,7 @@ along	O
 SE	O
 North	B-LOC
 Carolina	E-LOC
-coast	E-LOC
+coast	O
 drift	O
 W	O
 SW	O
@@ -105121,7 +105121,7 @@ Ways	O
 donate	O
 Italy	O
 abroad	O
-terremoto	B-LOC
+terremoto	O
 ItalyEarthquake	O
 
 To	O
@@ -106218,7 +106218,7 @@ awful	O
 updates	O
 North	B-LOC
 Carolina	E-LOC
-coast	E-LOC
+coast	O
 areas	O
 nearby	O
 overnight	O
@@ -107659,7 +107659,7 @@ injured	O
 dozens	O
 missing	O
 prayforgreece	O
-greece	S-LOC
+greece	O
 
 people	O
 dead	O
@@ -110145,7 +110145,7 @@ KeralaFloods	O
 KeralaFloodRelief	O
 
 RT	O
-oof	E-LOC
+oof	O
 probably	O
 best	O
 talk	O
@@ -110199,7 +110199,7 @@ Coast	O
 Guard	O
 Commander	O
 updates	O
-us	S-LOC
+us	O
 damage	O
 wake	O
 Irma	O
@@ -110582,7 +110582,7 @@ Pinarayi	S-LOC
 Vijayan	O
 KeralaFloodRelief	O
 Landslides	O
-pinarayivijayan	S-LOC
+pinarayivijayan	O
 
 Nov	O
 Authorities	O
@@ -110746,7 +110746,7 @@ similar	O
 event	O
 forced	O
 historic	O
-city	B-LOC
+city	O
 Howard	I-LOC
 County	I-LOC
 rebuild	O
@@ -111046,7 +111046,7 @@ leave	O
 county	B-LOC
 dont	O
 go	O
-north	B-LOC
+north	O
 HurricaneDorian	O
 still	O
 expected	O
@@ -111765,7 +111765,7 @@ visited	O
 Ratnapura	B-LOC
 worstaffected	O
 districts	O
-da	E-LOC
+da	O
 devastating	O
 floods	O
 landslides	O
@@ -111965,7 +111965,7 @@ Cyclone	O
 Idai	O
 destroys	O
 Mozambique	S-LOC
-city	E-LOC
+city	O
 aid	O
 officials	O
 say	O
@@ -115593,7 +115593,7 @@ Bharati	O
 creates	O
 history	O
 rescues	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 via	O
 
@@ -115666,8 +115666,8 @@ HurricaneFlorence	O
 Were	O
 live	O
 Annapolis	S-LOC
-city	I-LOC
-county	E-LOC
+city	O
+county	O
 officials	O
 preparing	O
 FB	O
@@ -117784,8 +117784,8 @@ Red	O
 Zone	O
 tsunami	O
 warning	O
-marine	B-LOC
-beach	E-LOC
+marine	O
+beach	O
 areas	O
 WGTN	S-LOC
 south	O
@@ -118712,7 +118712,7 @@ kids	O
 among	O
 dead	O
 found	O
-school	B-LOC
+school	O
 Mexico	S-LOC
 earthquake	O
 
@@ -119064,7 +119064,7 @@ Hurricane	O
 warnings	O
 issued	O
 Florida	E-LOC
-coast	E-LOC
+coast	O
 historic	O
 Category	O
 Dorian	O
@@ -120409,8 +120409,8 @@ huge	O
 sum	O
 aid	O
 rebuilding	O
-floodhit	B-LOC
-state	E-LOC
+floodhit	O
+state	O
 Kerala	S-LOC
 Know	O
 items	O
@@ -120540,7 +120540,7 @@ Rs	O
 crore	O
 released	O
 far	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 advance	O
 assistance	O
@@ -120731,8 +120731,8 @@ greecewildfires	O
 KeralaFloods	O
 We	O
 continue	O
-langar	B-LOC
-sewa	I-LOC
+langar	O
+sewa	O
 Kerala	S-LOC
 till	O
 people	O
@@ -120806,7 +120806,7 @@ lemonade	O
 stand	O
 raises	O
 Alberta	O
-wildfire	E-LOC
+wildfire	O
 relief	O
 A	O
 years	O
@@ -123199,9 +123199,9 @@ CycloneIdai	O
 RT	O
 Mexico	S-LOC
 Dona	O
-las	S-LOC
+las	O
 victimas	O
-del	B-LOC
+del	O
 Terremoto	O
 Donate	O
 victims	O
@@ -123831,7 +123831,7 @@ serious	O
 Hurricane	O
 Matthew	O
 slams	O
-southwest	B-LOC
+southwest	O
 Haiti	O
 Headed	O
 towards	O
@@ -123974,7 +123974,7 @@ careful	O
 even	O
 urban	O
 areas	O
-firedanger	S-LOC
+firedanger	O
 
 Is	O
 high	O
@@ -124255,7 +124255,7 @@ We	O
 need	O
 help	O
 earthquake	O
-howtohelp	S-LOC
+howtohelp	O
 mexicocity	E-LOC
 mexico	B-LOC
 donatenow	O
@@ -125289,7 +125289,7 @@ killed	O
 magnitude	O
 earthquake	O
 hit	O
-central	B-LOC
+central	O
 Mexico	S-LOC
 officials	O
 say	O
@@ -125749,7 +125749,7 @@ scale	O
 damage	O
 caused	O
 CycloneIdai	O
-city	I-LOC
+city	O
 Beira	B-LOC
 Mozambique	E-LOC
 massive	O
@@ -126476,7 +126476,7 @@ HurricaneMaria	O
 
 RT	O
 Beira	O
-airport	E-LOC
+airport	O
 remains	O
 closed	O
 today	O
@@ -127733,7 +127733,7 @@ Sundays	O
 storms	O
 including	O
 Baltimore	B-LOC
-city	E-LOC
+city	O
 neighborhood	O
 Dundalk	O
 Catonsville	O
@@ -128111,7 +128111,7 @@ cost	O
 rebuilding	O
 roads	O
 infrastructure	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 via	O
 
@@ -129085,7 +129085,7 @@ Hurricane	O
 Irma	O
 minute	O
 tour	O
-wtsp	S-LOC
+wtsp	O
 
 I	O
 liked	O
@@ -130174,7 +130174,7 @@ Emergency	O
 catastrophic	O
 flooding	O
 EllicottCity	I-LOC
-west	B-LOC
+west	O
 Baltimore	B-LOC
 BREAKING	O
 mdwx	O
@@ -131960,7 +131960,7 @@ Rise	O
 Death	O
 Toll	O
 Reached	O
-dailyaddaa	S-LOC
+dailyaddaa	O
 
 IndoTibetan	O
 Border	O
@@ -132383,7 +132383,7 @@ festivity	O
 despatch	O
 relief	O
 material	O
-floodhit	B-LOC
+floodhit	O
 Kerala	B-LOC
 
 Rule	O
@@ -132486,7 +132486,7 @@ east	O
 Wilmington	E-LOC
 NC	B-LOC
 without	O
-power	S-LOC
+power	O
 NC	O
 trapped	O
 awaiting	O
@@ -132715,7 +132715,7 @@ Damage	O
 
 trucks	O
 coming	O
-ernakulam	S-LOC
+ernakulam	O
 collecting	O
 relief	O
 materials	O
@@ -132970,7 +132970,7 @@ affected	O
 earthquake	O
 coasbajwa	O
 earthquake	O
-ispr	S-LOC
+ispr	O
 
 PrayForGreece	O
 Greece	S-LOC
@@ -134199,7 +134199,7 @@ The	O
 death	O
 toll	O
 reached	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 two	O
 deaths	O
@@ -134443,7 +134443,7 @@ Safeway	O
 Shell	O
 Subway	O
 etc	O
-kidlitforcampfire	S-LOC
+kidlitforcampfire	O
 
 WANTED	O
 In	O
@@ -134909,7 +134909,7 @@ Rockport	O
 Austin	B-LOC
 Convention	I-LOC
 Center	E-LOC
-megashelter	B-LOC
+megashelter	O
 Harvey	O
 evacuees	O
 
@@ -135265,7 +135265,7 @@ Estimated	O
 homes	O
 destroyed	O
 Houston	S-LOC
-area	E-LOC
+area	O
 Harvey	O
 dumped	O
 inches	O
@@ -135441,7 +135441,7 @@ DesparecidosEc	O
 
 Some	O
 relief	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 ITDept	O
 extends	O
@@ -136321,7 +136321,7 @@ strikes	O
 New	I-LOC
 Zealand	E-LOC
 Centered	O
-north	B-LOC
+north	O
 Christchurch	B-LOC
 
 An	O
@@ -137131,7 +137131,7 @@ evacuated	O
 mths	O
 foundations	O
 cracked	O
-bldg	S-LOC
+bldg	O
 moved	O
 
 Cant	O
@@ -137260,7 +137260,7 @@ evacuees	O
 redcrossca	O
 image	O
 via	O
-ymmhelp	S-LOC
+ymmhelp	O
 ymmfire	O
 ymm	O
 
@@ -137740,7 +137740,7 @@ government	O
 Turkey	E-LOC
 set	O
 tent	O
-city	E-LOC
+city	O
 people	O
 Mozambique	I-LOC
 hit	O
@@ -137763,7 +137763,7 @@ UMKE	O
 Tica	I-LOC
 town	O
 near	O
-central	B-LOC
+central	O
 Beira	B-LOC
 city	O
 
@@ -139337,7 +139337,7 @@ Edmonton	B-LOC
 Humane	I-LOC
 Society	I-LOC
 Street	E-LOC
-yeg	S-LOC
+yeg	O
 donations	O
 Wildfire	O
 Pets	O
@@ -139352,7 +139352,7 @@ via	O
 
 RT	O
 Refugees	O
-living	E-LOC
+living	O
 day	O
 clubbed	O
 together	O
@@ -141525,7 +141525,7 @@ donate	O
 Rs	O
 cr	O
 help	O
-floodhit	B-LOC
+floodhit	O
 Kerala	B-LOC
 
 Upstate	O
@@ -141804,7 +141804,7 @@ assist	O
 wildfire	O
 evacuees	O
 image	O
-ymmhelp	S-LOC
+ymmhelp	O
 ymmfire	O
 http	O
 
@@ -142011,7 +142011,7 @@ Countries	O
 lineup	O
 give	O
 aid	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 Should	O
 Kerala	O
@@ -142245,7 +142245,7 @@ Ameen	O
 Even	O
 offline	O
 people	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 share	O
 location	O
@@ -142486,7 +142486,7 @@ Haiti	E-LOC
 
 Currently	O
 Houston	S-LOC
-area	E-LOC
+area	O
 locations	O
 closed	O
 due	O
@@ -142808,7 +142808,7 @@ The	O
 death	O
 toll	O
 reached	O
-floodhit	B-LOC
+floodhit	O
 Kerala	S-LOC
 two	O
 deaths	O
@@ -142894,7 +142894,7 @@ nature	O
 usa	E-LOC
 europe	I-LOC
 london	I-LOC
-quran	S-LOC
+quran	O
 pakistan	I-LOC
 earthquake	O
 viral	O
@@ -143055,7 +143055,7 @@ took	O
 place	O
 Kerala	S-LOC
 My	O
-house	B-LOC
+house	O
 Kerala	O
 damaged	O
 flood	O
@@ -144068,7 +144068,7 @@ earthquake	O
 hit	O
 grounds	O
 sehat	O
-karwan	S-LOC
+karwan	O
 trying	O
 reach	O
 affected	O
@@ -145195,7 +145195,7 @@ Northlands	E-LOC
 relief	O
 centre	O
 Edmonton	B-LOC
-yeg	S-LOC
+yeg	O
 ymmfire	O
 
 RIGHT	O
@@ -145405,7 +145405,7 @@ damage	O
 expected	O
 cbswx	O
 dfwwx	O
-txwx	S-LOC
+txwx	O
 
 RT	O
 Wildfire	O
@@ -145779,7 +145779,7 @@ entire	O
 town	O
 Paradise	O
 CA	B-LOC
-north	B-LOC
+north	O
 Sacramento	O
 gone	O
 CampFire	O
@@ -146146,7 +146146,7 @@ rains	O
 affected	O
 people	O
 across	O
-southeast	B-LOC
+southeast	O
 Africa	B-LOC
 officials	O
 UN	O
@@ -146331,7 +146331,7 @@ Tropical	O
 Storm	O
 warning	O
 NC	E-LOC
-coast	E-LOC
+coast	O
 Follow	O
 lists	O
 N	O
@@ -147565,7 +147565,7 @@ areas	O
 
 Puerto	B-LOC
 Ricos	E-LOC
-police	E-LOC
+police	O
 officer	O
 plea	O
 help	O
@@ -150025,7 +150025,7 @@ people	O
 Buzi	O
 bringing	O
 Beira	O
-airport	E-LOC
+airport	O
 yesterday	O
 They	O
 received	O
@@ -150716,7 +150716,7 @@ Kashmir	B-LOC
 extensively	O
 damaged	O
 magnitude	O
-earthquake	E-LOC
+earthquake	O
 
 Sri	I-LOC
 Lanka	E-LOC
@@ -150889,7 +150889,7 @@ REBUILD	O
 PUERTO	B-LOC
 RICO	E-LOC
 goyagives	O
-hurricanemaria	E-LOC
+hurricanemaria	O
 Read	O
 
 Thank	O
@@ -151939,7 +151939,7 @@ near	O
 Hamner	O
 Springs	O
 Newzealand	S-LOC
-north	B-LOC
+north	O
 Christchurch	O
 New	O
 
@@ -152334,7 +152334,7 @@ alerts	O
 shelter	O
 locations	O
 HurricaneDorian	O
-dorianhurricane	E-LOC
+dorianhurricane	O
 
 BBC	O
 News	O
@@ -152454,7 +152454,7 @@ helps	O
 
 Earthquake	O
 aftershocks	O
-rock	B-LOC
+rock	O
 Mexico	S-LOC
 killed	O
 Photos	O
@@ -153072,7 +153072,7 @@ Lista	O
 di	O
 farmaci	O
 urgenti	O
-terremoto	S-LOC
+terremoto	O
 Urgently	O
 needed	O
 medications	O
@@ -153771,7 +153771,7 @@ help	O
 transport	O
 relief	O
 supplies	O
-hardtoreach	S-LOC
+hardtoreach	O
 areas	O
 Mozambique	E-LOC
 devastated	O
@@ -155017,7 +155017,7 @@ Thiruvananthapuram	O
 Kerala	I-LOC
 August	O
 visit	O
-floodhit	B-LOC
+floodhit	O
 regions	O
 state	O
 including	O
@@ -155053,7 +155053,7 @@ updates	O
 starting	O
 Hong	B-LOC
 Kong	I-LOC
-pm	E-LOC
+pm	O
 Quito	E-LOC
 
 RT	O
@@ -155704,7 +155704,7 @@ flash	O
 flooding	O
 strikes	O
 Maryland	S-LOC
-city	E-LOC
+city	O
 Please	O
 pray	O
 PrayforMilitary	O
@@ -155747,7 +155747,7 @@ wildfire	O
 grows	O
 fuelled	O
 hot	O
-weatherymmfire	S-LOC
+weatherymmfire	O
 fortmacfire	O
 htt	O
 
@@ -155918,7 +155918,7 @@ injured	O
 
 Confirmed	O
 Texas	S-LOC
-city	E-LOC
+city	O
 loses	O
 water	O
 dead	O
@@ -156272,7 +156272,7 @@ warning	O
 issued	O
 parts	O
 Florida	B-LOC
-east	E-LOC
+east	O
 coast	O
 Hurricane	O
 Dorian	O
@@ -156486,7 +156486,7 @@ Rico	E-LOC
 disaster	O
 victims	O
 newyork	O
-nyc	S-LOC
+nyc	O
 
 Just	O
 heard	O
@@ -156596,7 +156596,7 @@ hit	O
 country	O
 damaging	O
 immensely	O
-central	B-LOC
+central	O
 mexico	O
 please	O
 RT	O
@@ -157818,8 +157818,8 @@ fight	O
 ensure	O
 
 RT	O
-nd	I-LOC
-major	E-LOC
+nd	O
+major	O
 earthquake	O
 within	O
 days	O
@@ -158982,7 +158982,7 @@ Downtown	S-LOC
 truly	O
 remarkable	O
 What	O
-city	B-LOC
+city	O
 HoustonStrong	O
 Harvey	O
 
@@ -160622,7 +160622,7 @@ know	O
 
 California	S-LOC
 Fires	O
-missingperson	S-LOC
+missingperson	O
 Please	O
 RT	O
 Help	O
@@ -160757,7 +160757,7 @@ fine	O
 terrible	O
 damages	O
 coast	O
-ecuador	S-LOC
+ecuador	O
 
 There	O
 terrible	O
@@ -161064,7 +161064,7 @@ projection	O
 pans	O
 worstcase	O
 scenario	O
-florida	S-LOC
+florida	O
 people	O
 buildings	O
 ON	O
@@ -162460,7 +162460,7 @@ damage	O
 Davenport	O
 Polk	B-LOC
 County	E-LOC
-night	E-LOC
+night	O
 No	O
 power	O
 since	O
@@ -162910,7 +162910,7 @@ relief	O
 effort	O
 including	O
 USSSampson	O
-sail	E-LOC
+sail	O
 Wellington	S-LOC
 via	O
 
@@ -163684,7 +163684,7 @@ Rehr	O
 awaits	O
 evacuation	O
 holds	O
-fouryear	S-LOC
+fouryear	O
 old	O
 son	O
 Maximus	O
@@ -165043,7 +165043,7 @@ Wildcat	O
 delivers	O
 RFAMountsBay	O
 ability	O
-seabase	S-LOC
+seabase	O
 reach	O
 isolated	O
 communities	O
@@ -165327,7 +165327,7 @@ Thanks	O
 asking	O
 I	O
 Mexico	S-LOC
-city	E-LOC
+city	O
 earthquake	O
 happened	O
 If	O
@@ -165544,7 +165544,7 @@ kills	O
 two	O
 A	O
 strong	O
-new	B-LOC
+new	O
 earthquake	O
 magnitude	O
 
@@ -165622,7 +165622,7 @@ All	O
 donations	O
 go	O
 Visit	O
-magicalhelper	S-LOC
+magicalhelper	O
 today	O
 
 Its	O
@@ -165672,7 +165672,7 @@ rains	O
 KeralaFloods	O
 Donate	O
 guys	O
-sewa	S-LOC
+sewa	O
 bharti	O
 PM	O
 relief	O
@@ -165743,7 +165743,7 @@ Red	O
 Cross	O
 Society	O
 donates	O
-firestricken	S-LOC
+firestricken	O
 Greeks	O
 Greece	S-LOC
 news	O
@@ -167816,7 +167816,7 @@ Island	E-LOC
 lower	I-LOC
 North	I-LOC
 Island	O
-arvo	S-LOC
+arvo	O
 early	O
 Tuesday	O
 may	O
@@ -168028,7 +168028,7 @@ eqnz	O
 damage	O
 place	O
 smashed	O
-kina	S-LOC
+kina	O
 Feeling	O
 fortunate	O
 
@@ -168362,8 +168362,8 @@ Latest	O
 FortMac	S-LOC
 hour	O
 camps	O
-north	B-LOC
-city	E-LOC
+north	O
+city	O
 evacuated	O
 ymmfire	O
 
@@ -168377,7 +168377,7 @@ destroyed	O
 Hurricane	O
 Maria	O
 kywx	O
-inwx	S-LOC
+inwx	O
 
 RT	O
 UPDATE	O
@@ -168489,7 +168489,7 @@ luckily	O
 North	I-LOC
 Island	E-LOC
 Heading	O
-south	S-LOC
+south	O
 next	O
 week	O
 though	O
@@ -170889,7 +170889,7 @@ Flooding	O
 Haiti	S-LOC
 Hurricane	O
 Matthew	O
-swamps	E-LOC
+swamps	O
 country	O
 foundationmariehaitiInstagram	O
 
@@ -171215,7 +171215,7 @@ along	O
 way	O
 
 Scene	O
-southwest	B-LOC
+southwest	O
 Houston	S-LOC
 rescues	O
 families	O
@@ -171936,7 +171936,7 @@ everything	O
 
 Raft	O
 capsizes	O
-floodhit	B-LOC
+floodhit	O
 Sri	B-LOC
 Lanka	E-LOC
 kills	O
@@ -172656,7 +172656,7 @@ Jupiter	O
 concerned	O
 storm	O
 surge	O
-beach	E-LOC
+beach	O
 erosion	O
 flooding	O
 low	O
@@ -173306,9 +173306,9 @@ according	O
 Civil	O
 Protection	O
 Agency	O
-terremoto	S-LOC
+terremoto	O
 
-rt	B-LOC
+rt	O
 legalproblems	O
 Hurricane	O
 Irma	O
@@ -173799,7 +173799,7 @@ Liberty	I-LOC
 McIntosh	E-LOC
 counties	O
 gawx	O
-wrblwx	S-LOC
+wrblwx	O
 
 RT	O
 Ontario	E-LOC
@@ -174040,7 +174040,7 @@ wire	O
 help	O
 rebuilding	O
 efforts	O
-nebraskastrong	S-LOC
+nebraskastrong	O
 
 RT	O
 SaveOnFoods	O
@@ -175669,7 +175669,7 @@ Freeman	O
 St	O
 Houston	B-LOC
 TX	E-LOC
-ap	E-LOC
+ap	O
 Harvey	O
 Supply	O
 Relief	O
@@ -176499,8 +176499,8 @@ hurricaneflorence	O
 momblogger	O
 momlife	O
 motherhood	O
-momsofsc	S-LOC
-momsofnc	S-LOC
+momsofsc	O
+momsofnc	O
 carolinamoms	O
 eastcoastmoms	O
 eastcoastfamily	O
@@ -177929,7 +177929,7 @@ Qatar	E-LOC
 announces	O
 million	O
 aid	O
-floodhit	B-LOC
+floodhit	O
 Kerala	B-LOC
 
 Drone	O
@@ -178013,7 +178013,7 @@ least	O
 dead	O
 Tuscany	E-LOC
 Mexico	I-LOC
-quake	E-LOC
+quake	O
 death	O
 toll	O
 rises	O
@@ -178112,7 +178112,7 @@ magnitude	O
 earthquake	O
 New	B-LOC
 Zealand	E-LOC
-nzeq	I-LOC
+nzeq	O
 News	O
 
 Check	O
@@ -178178,7 +178178,7 @@ share	O
 retweet	O
 
 Chikukwa	O
-village	E-LOC
+village	O
 coming	O
 Hang	O
 Our	O
@@ -178348,7 +178348,7 @@ well	O
 
 FortMcMurray	O
 fire	O
-burneddestroyed	S-LOC
+burneddestroyed	O
 buildings	O
 city	O
 jumped	O
@@ -178473,13 +178473,13 @@ This	O
 low	O
 
 In	O
-adlux	S-LOC
+adlux	O
 conv	O
 centre	O
 food	O
 n	O
 water	O
-availablebut	S-LOC
+availablebut	O
 approached	O
 till	O
 nw	O
@@ -178541,7 +178541,7 @@ goes	O
 directly	O
 Haiti	S-LOC
 provide	O
-reliefaid	S-LOC
+reliefaid	O
 
 Animal	O
 rescue	O
@@ -178578,7 +178578,7 @@ Munhinga	O
 Sussundenga	E-LOC
 rest	O
 Manica	I-LOC
-province	E-LOC
+province	O
 
 UPDATE	O
 Sheriff	O
@@ -178608,7 +178608,7 @@ says	O
 Island	O
 destroyed	O
 MariaHurricane	O
-prayersforpuertorico	E-LOC
+prayersforpuertorico	O
 
 As	O
 groups	O
@@ -178724,7 +178724,7 @@ flood	O
 waters	O
 rescued	O
 chopper	O
-beaumont	S-LOC
+beaumont	O
 took	O
 half	O
 tree	O
@@ -179246,7 +179246,7 @@ donate	O
 HurricaneHarvey	O
 relief	O
 humanitywins	O
-increasehelp	S-LOC
+increasehelp	O
 
 Hurricane	O
 Harvey	O
@@ -180531,7 +180531,7 @@ Mandatory	O
 evacuations	O
 certain	O
 FL	S-LOC
-coastal	E-LOC
+coastal	O
 regions	O
 DorianOnFox	O
 HurricaneDorian	O
@@ -181555,7 +181555,7 @@ dont	O
 belong	O
 citizens	O
 destroyed	O
-fakepresident	S-LOC
+fakepresident	O
 
 Hurricane	O
 Harvey	O
@@ -182205,7 +182205,7 @@ Armchair	O
 activists	O
 passing	O
 judgements	O
-onground	S-LOC
+onground	O
 relief	O
 workers	O
 win	O
@@ -182961,7 +182961,7 @@ others	O
 check	O
 
 May	O
-st	B-LOC
+st	O
 AlbertaStrong	O
 Wildfire	O
 Fundraiser	O
@@ -183789,7 +183789,7 @@ RT	O
 PNS	O
 Zulfiquar	O
 reaches	O
-floodhit	B-LOC
+floodhit	O
 Sri	I-LOC
 Lanka	E-LOC
 relief	O
@@ -184794,7 +184794,7 @@ kitties	O
 Irmas	O
 path	O
 Miami	S-LOC
-area	E-LOC
+area	O
 need	O
 shelter	O
 storm	O
@@ -186586,7 +186586,7 @@ Main	O
 roads	O
 Christchurch	S-LOC
 heading	O
-eastern	B-LOC
+eastern	O
 suburbs	O
 town	O
 becoming	O
@@ -186594,7 +186594,7 @@ congested	O
 Traffic	O
 still	O
 moving	O
-slo	S-LOC
+slo	O
 
 Pres	O
 Smt	O
@@ -187612,7 +187612,7 @@ drones	O
 dronesdaily	O
 dronephotography	O
 aerialphotography	O
-dronegear	S-LOC
+dronegear	O
 dronefly	O
 dronelife	O
 instadrone	O
@@ -188099,7 +188099,7 @@ toll	O
 plazas	O
 Paliekkara	I-LOC
 Thrissur	E-LOC
-district	E-LOC
+district	O
 Pampampallam	O
 Palakkad	I-LOC
 district	O
@@ -188351,7 +188351,7 @@ affected	O
 flooding	O
 Nebraska	S-LOC
 Iowa	O
-nebraskastrong	S-LOC
+nebraskastrong	O
 
 Principal	O
 Secretary	O
@@ -188695,7 +188695,7 @@ How	O
 Avoid	O
 Scams	O
 via	O
-howtohelp	S-LOC
+howtohelp	O
 texas	S-LOC
 
 Water	O
@@ -189066,7 +189066,7 @@ plate	O
 omaha	E-LOC
 nebraska	B-LOC
 omahanebraska	O
-midwest	S-LOC
+midwest	O
 floodsupplies	O
 volunteers	O
 volunteer	O
@@ -191044,7 +191044,7 @@ PoK	O
 tremors	O
 jolt	O
 DelhiNCR	O
-north	B-LOC
+north	O
 India	S-LOC
 earthquake	O
 
@@ -191392,7 +191392,7 @@ rises	O
 according	O
 authorities	O
 country	O
-terremoto	S-LOC
+terremoto	O
 
 Help	O
 raise	O
@@ -191838,7 +191838,7 @@ Powerful	O
 earthquake	O
 kills	O
 hundreds	O
-central	B-LOC
+central	O
 Mexico	S-LOC
 via	O
 
@@ -192033,7 +192033,7 @@ real	O
 quick	O
 Missing	O
 Md	O
-man	E-LOC
+man	O
 trying	O
 help	O
 woman	O
@@ -193871,7 +193871,7 @@ Monday	O
 entire	O
 SE	O
 TX	E-LOC
-area	E-LOC
+area	O
 flooded	O
 Over	O
 year	O
@@ -195374,7 +195374,7 @@ Tuesday	O
 morning	O
 More	O
 fourth	O
-county	E-LOC
+county	O
 without	O
 power	O
 roads	O
@@ -196417,7 +196417,7 @@ injuries	O
 beseiged	O
 Kashmir	O
 due	O
-lockdownclampdown	B-LOC
+lockdownclampdown	O
 Delhi	I-LOC
 No	O
 mobile	O
@@ -196766,7 +196766,7 @@ pouring	O
 
 volunteer	O
 wellington	S-LOC
-cbd	S-LOC
+cbd	O
 today	O
 eqnz	O
 
@@ -197039,7 +197039,7 @@ Wing	O
 BJYM	O
 Kerala	B-LOC
 Karyakartasled	O
-district	I-LOC
+district	O
 president	O
 Lalkrishnaproviding	O
 food	O
@@ -197093,7 +197093,7 @@ cargo	O
 plane	O
 delivers	O
 relief	O
-floodhit	B-LOC
+floodhit	O
 Sri	B-LOC
 Lanka	I-LOC
 easybookinglk	O
@@ -197176,7 +197176,7 @@ Matthew	O
 State	O
 Emergency	O
 declared	O
-southeastern	B-LOC
+southeastern	O
 United	I-LOC
 States	E-LOC
 Cuba	B-LOC
@@ -197599,7 +197599,7 @@ one	O
 ymmfire	O
 evacuee	O
 makeshift	O
-camps	B-LOC
+camps	O
 ymmhelps	O
 ymmstrong	O
 
@@ -198767,7 +198767,7 @@ transported	O
 New	B-LOC
 Jersey	E-LOC
 find	O
-new	B-LOC
+new	O
 homes	O
 
 WATCH	O
@@ -200988,7 +200988,7 @@ sight	O
 Poonthura	S-LOC
 Ladies	O
 Poonthura	O
-coastal	E-LOC
+coastal	O
 village	O
 making	O
 brooms	O
@@ -201833,7 +201833,7 @@ Death	O
 toll	O
 powerful	O
 earthquake	O
-central	B-LOC
+central	O
 Mexico	S-LOC
 tops	O
 officials	O
@@ -202593,7 +202593,7 @@ extent	O
 flood	O
 damage	O
 Maryland	S-LOC
-city	E-LOC
+city	O
 STORY	O
 
 Today	O
@@ -202639,7 +202639,7 @@ New	B-LOC
 Zealand	E-LOC
 
 RT	O
-go	E-LOC
+go	O
 directly	O
 communityled	O
 recovery	O
@@ -203474,7 +203474,7 @@ McAlpine	O
 Creek	O
 Charlotte	S-LOC
 flooding	O
-greenway	B-LOC
+greenway	O
 TriCity	O
 Herald	O
 TriCity	O
@@ -203620,7 +203620,7 @@ measures	O
 undertaken	O
 banks	O
 insurers	O
-floodhit	B-LOC
+floodhit	O
 Kerala	B-LOC
 tomorrow	O
 toreviewreliefmeasuresundertakenbybanksinsurersinfloodhitkeralatomorrow	O
@@ -203801,7 +203801,7 @@ case	O
 quick	O
 escape	O
 Plus	O
-wheelybin	S-LOC
+wheelybin	O
 back	O
 emergency	O
 supplies	O
@@ -204141,7 +204141,7 @@ earthquake	O
 least	O
 dead	O
 La	O
-entrada	B-LOC
+entrada	O
 Mexico	O
 earthquake	O
 least	O
@@ -205608,7 +205608,7 @@ fees	O
 If	O
 youre	O
 Miami	E-LOC
-area	E-LOC
+area	O
 would	O
 like	O
 donate	O
@@ -205696,15 +205696,15 @@ McMurray	E-LOC
 wildfire	O
 evacuees	O
 head	O
-south	B-LOC
-mass	I-LOC
-road	E-LOC
+south	O
+mass	O
+road	O
 convoy	O
 Helicopter	O
 leads	O
 initial	O
 convoy	O
-vehicl	S-LOC
+vehicl	O
 
 I	O
 cannot	O
@@ -206418,14 +206418,14 @@ says	O
 Harvey	O
 evacuees	O
 far	O
-megashelter	S-LOC
+megashelter	O
 Another	O
 Dallas	S-LOC
 shelters	O
 
 RT	O
 Mexico	S-LOC
-mexicoearthquake	I-LOC
+mexicoearthquake	O
 EarthquakeMexico	O
 earthquake	O
 You	O
@@ -207669,7 +207669,7 @@ breakingnews	O
 news	O
 
 Mozambique	E-LOC
-city	E-LOC
+city	O
 Beira	B-LOC
 destroyed	O
 cyclone	O
