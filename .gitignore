@@ -147,8 +147,14 @@ cython_debug/
 # ignore CrisisTransformers
 CrisisTransformers
 
-# ignore working folder
+# ignore working folder 
 working
+
+# ignore model folder
+model
+
+# ignore data folder
+data
 
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
